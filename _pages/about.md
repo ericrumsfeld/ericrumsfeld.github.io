@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Eric Rumsfeld. I'm an early career Data Scientist currently contributing to the future of AI image generation as a MOVE Fellow at Handshake. 
+Hi! I'm an early career Data Scientist currently contributing to the future of AI image generation as a MOVE Fellow at Handshake. 
 
 After graduating with an M.S. in Astrophysics at the University of California, Irvine, I am transitioning into an impact-focused analytics career where I use data to tell stories. I am currently obsessed with sports data and I have multiple ongoing projects pushing our understanding of the role of analytics in this world. 
 
