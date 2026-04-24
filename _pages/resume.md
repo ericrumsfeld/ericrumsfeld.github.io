@@ -1,12 +1,8 @@
 ---
-layout: page
+layout: redirect
 title: Resume
 permalink: /resume/
+redirect: /assets/pdf/Eric_Rumsfeld_Resume.pdf
 nav: true
 nav_order: 4
 ---
-
-<script>
-  window.open('/assets/pdf/Eric_Rumsfeld_Resume.pdf', '_blank');
-  window.location.href = '/';
-</script>
