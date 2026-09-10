@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-march-madness-tournament-predictor",
         
-          title: "a post with plotly.js",
+          title: "March Madness Tournament Predictor",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Python ML (Random Forest Algorithm) to Predict March Madness 2026 Tournament Outcomes",
         section: "Posts",
         handler: () => {
           
