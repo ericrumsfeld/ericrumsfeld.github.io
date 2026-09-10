@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "post-march-madness-tournament-predictor",
-        
-          title: "March Madness Tournament Predictor",
-        
-        description: "Python ML (Random Forest Algorithm) to Predict March Madness 2026 Tournament Outcomes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
