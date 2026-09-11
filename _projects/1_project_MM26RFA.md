@@ -13,5 +13,5 @@ Built a **Random Forest machine learning model** to predict 2026 NCAA Tournament
 
 **Tech:** Python · scikit-learn · pandas · NumPy · Matplotlib · Kaggle/KenPom data
 
-[Read the full article →](/_posts/2026-05-01_MM26_RFA.md)
+[Read the full article →](/_posts/2026-05-01-MM26-RFA.md)
 
