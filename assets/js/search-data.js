@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-march-madness-tournament-predictor",
+        
+          title: "March Madness Tournament Predictor",
+        
+        description: "Python ML (Random Forest Algorithm) to Predict March Madness 2026 Tournament Outcomes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/MM26-RFA/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
