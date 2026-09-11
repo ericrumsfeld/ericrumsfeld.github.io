@@ -46,9 +46,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-march-madness-tournament-predictor",
-          title: 'March Madness Tournament Predictor',
-          description: "Random Forest ML model predicting 2026 NCAA Tournament outcomes",
+          section: "News",},{id: "projects-march-madness-2026-tournament-outcome-predictor",
+          title: 'March Madness 2026 Tournament Outcome Predictor',
+          description: "Random Forest ML model in Python predicting 2026 NCAA Tournament outcomes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_MM26RFA/";
             },},{id: "projects-project-2",
