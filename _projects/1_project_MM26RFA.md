@@ -4,7 +4,7 @@ title: March Madness 2026 Tournament Outcome Predictor
 description: Random Forest ML model in Python predicting 2026 NCAA Tournament outcomes
 img: assets/img/RFA_Bracket_ESPN.png
 importance: 1
-category: work
+category: Completed
 ---
 
 **March Madness Tournament Predictor**
