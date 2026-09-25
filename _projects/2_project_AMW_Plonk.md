@@ -44,7 +44,7 @@ Note that, by nature, this dataset must be hand-compiled. This is actively being
     font-size: 0.85rem;
     color: #6c757d;
   ">
-    Target: 20,914 mapped locations
+    Target: 20,914 mapped locations (19.0% sample of total)
   </div>
 </div>
 
