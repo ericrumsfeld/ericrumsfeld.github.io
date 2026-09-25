@@ -67,11 +67,11 @@ ninja.data = [{
           description: "Ever wondered where exactly the highest EV Plonks are?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project_AMW_Plonk/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-march-risers",
+          title: 'March Risers',
+          description: "How exactly is March performance linked to NBA Draft Outcomes?",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_project_MR26/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
