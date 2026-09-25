@@ -7,9 +7,7 @@ importance: 1
 category: Completed
 ---
 
-**March Madness Tournament Predictor**
-
-Built a **Random Forest machine learning model** to predict 2026 NCAA Tournament game outcomes using 19 relative team-strength features derived from historical college basketball data. The model achieved **73.93% test-set accuracy** and correctly predicted **50 of 63 tournament games**, finishing in the **99.4th percentile of ESPN brackets**.
+On March 18th, 2026, I built a **Random Forest machine learning model** to predict 2026 NCAA Tournament game outcomes using 19 relative team-strength features derived from historical college basketball data. The model achieved **73.93% test-set accuracy** and correctly predicted **50 of 63 tournament games**, finishing in the **99.4th percentile of ESPN brackets**.
 
 **Tech:** Python · scikit-learn · pandas · NumPy · Matplotlib · Kaggle/KenPom data
 
