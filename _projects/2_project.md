@@ -1,81 +1,66 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Optimizing Geoguessr Plonks
+description: Ever wondered where exactly the highest EV Plonks are?
+img: assets/img/Poland_Plonk.png
 importance: 2
-category: work
-giscus_comments: true
+category: Upcoming
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Geoguessr players oftentimes find themselves in a bind where they may know the country they're meant to be guessing, but cannot seem to work out which region they should head for. No region guess? No Problem! Through this project, I seek to find the exact location of the plonk with the highest Expected Value (EV) in each country represented in the competition map, <i>A Moving World</i> by user BojanR. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Tech:** Python 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<i>Full article coming soon!</i>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<!--[Read the full article →](/blog/2026/MM26-RFA/)-->
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div style="margin-top: 2rem; margin-bottom: 2rem;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.5rem;">
+    <strong>Dataset progress</strong>
+    <span id="location-progress-text">0 / 20,914 locations (0.0%)</span>
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+  <div style="
+    width: 100%;
+    height: 14px;
+    background-color: #e9ecef;
+    border-radius: 7px;
+    overflow: hidden;
+  ">
+    <div id="location-progress-bar" style="
+      width: 0%;
+      height: 100%;
+      background-color: #007bff;
+      border-radius: 7px;
+      transition: width 0.5s ease;
+    "></div>
+  </div>
+
+  <div style="
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: #6c757d;
+  ">
+    Target: 20,914 mapped locations
   </div>
 </div>
-```
 
-{% endraw %}
+<script>
+  const mappedLocations = 1195; // <-- CHANGE THIS NUMBER
+
+  const targetLocations = 20914;
+  const percentage = Math.min((mappedLocations / targetLocations) * 100, 100);
+
+  document.getElementById("location-progress-bar").style.width =
+    percentage.toFixed(2) + "%";
+
+  document.getElementById("location-progress-text").textContent =
+    mappedLocations.toLocaleString() +
+    " / " +
+    targetLocations.toLocaleString() +
+    " locations (" +
+    percentage.toFixed(1) +
+    "%)";
+</script>
