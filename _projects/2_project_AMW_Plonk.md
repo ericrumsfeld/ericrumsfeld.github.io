@@ -49,7 +49,7 @@ Note that, by nature, this dataset must be hand-compiled. This is actively being
 </div>
 
 <script>
-  const mappedLocations = 1195; // <-- CHANGE THIS NUMBER
+  const mappedLocations = 1306; // <-- CHANGE THIS NUMBER
 
   const targetLocations = 20914;
   const percentage = Math.min((mappedLocations / targetLocations) * 100, 100);
