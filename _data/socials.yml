@@ -14,18 +14,9 @@ linkedin:
   title: LinkedIn
   url: https://www.linkedin.com/in/ericrumsfeld/
 
-github_custom:
-  logo: /assets/img/GitHub_logo.png
-  title: GitHub
-  url: https://github.com/ericrumsfeld
-
-
-#custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-#  logo: /assets/img/LinkedIn_logo.png #https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#  title: LinkedIn
-#  url: https://www.linkedin.com/in/ericrumsfeld/
-
-#custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-#  logo: /assets/img/GitHub_logo.png 
+#github_custom:
+#  logo: /assets/img/GitHub_logo.png
 #  title: GitHub
-# url: https://github.com/ericrumsfeld
+#  url: https://github.com/ericrumsfeld
+
+
