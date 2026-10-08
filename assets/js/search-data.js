@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "A collection of basketball analytics, machine learning, and data visualization projects. Built to uncover meaningful insights, answer real questions, and turn complex data into clear stories with actionable insights.",
+          description: "A collection of basketball analytics, machine learning, and data visualization projects. Built to uncover meaningful trends, answer real questions, and turn complex data into clear stories with actionable insights.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -72,11 +72,11 @@ ninja.data = [{
           description: "How exactly is March performance linked to NBA Draft Outcomes?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project_MR26/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-nba-2025-26-rookie-of-the-year-projection",
+          title: 'NBA 2025-26 Rookie of the Year Projection',
+          description: "20 games in, who will win the award at the end of the year?",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/4_project_NBA_ROTY_26/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -117,42 +117,14 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Eric_Rumsfeld_Resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("mailto:%65%72%75%6D%73%66%65%6C@%75%63%69.%65%64%75", "_blank");
         },
       },{
       id: 'light-theme',
