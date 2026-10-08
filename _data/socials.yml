@@ -9,10 +9,10 @@ email: erumsfel@uci.edu # your email address
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 
-linkedin:
-  logo: /assets/img/LinkedIn_logo.png
-  title: LinkedIn
-  url: https://www.linkedin.com/in/ericrumsfeld/
+#linkedin:
+#  logo: /assets/img/LinkedIn_logo.png
+#  title: LinkedIn
+#  url: https://www.linkedin.com/in/ericrumsfeld/
 
 #github_custom:
 #  logo: /assets/img/GitHub_logo.png
