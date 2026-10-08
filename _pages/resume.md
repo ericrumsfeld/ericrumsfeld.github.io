@@ -6,6 +6,4 @@ nav: true
 nav_order: 4
 ---
 
-<script>
-  window.location.href = "{{ '/assets/pdf/Eric_Rumsfeld_Resume.pdf' | relative_url }}";
-</script>
+<script> window.open("{{ '/assets/pdf/Eric_Rumsfeld_Resume_September_26.pdf' | relative_url }}", "_blank"); </script>
