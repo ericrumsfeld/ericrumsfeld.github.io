@@ -7,7 +7,7 @@ importance: 2
 category: Upcoming
 ---
 
-Geoguessr players oftentimes find themselves in a bind where they may know the country they're meant to be guessing, but cannot seem to work out which region they should head for. No region guess? No Problem! Through this project, I seek to find the exact location of the plonk with the highest Expected Value (EV) in each country represented in the competition map, <i>A Moving World</i>  by user BojanR. 
+Geoguessr players oftentimes find themselves in a bind where they may know the country they're meant to be guessing, but cannot seem to work out which region they should head for. No region guess? No Problem! Through this project, I seek to find the exact location of the plonk with the highest Expected Value (EV) in each country represented in the competition map, <i>A Moving World</i>   by user BojanR. 
 
 **Tech:** Python 
 
@@ -49,7 +49,7 @@ Note that, by nature, this dataset must be hand-compiled. This is actively being
 </div>
 
 <script>
-  const mappedLocations = 1306; // <-- CHANGE THIS NUMBER
+  const mappedLocations = 1490; // <-- CHANGE THIS NUMBER
 
   const targetLocations = 20914;
   const percentage = Math.min((mappedLocations / targetLocations) * 100, 100);
