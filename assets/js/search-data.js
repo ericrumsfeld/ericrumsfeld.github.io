@@ -117,7 +117,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Eric_Rumsfeld_Resume.pdf", "_blank");
+          window.open("/assets/pdf/Eric_Rumsfeld_Resume_September_26.pdf", "_blank");
         },
       },{
         id: 'social-email',
