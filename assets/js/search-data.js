@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
+        },{id: "nav-about-me",
+          title: "About Me",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/about-me/";
+          },
         },{id: "post-march-madness-tournament-predictor",
         
           title: "March Madness Tournament Predictor",
