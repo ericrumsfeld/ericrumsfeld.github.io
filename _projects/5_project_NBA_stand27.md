@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NBA 2026-27 Standings Predictions
-description: How do I project the 2026-27 NBA Regular Season standings to finish?
+description: With nuanced modeling for off-season moves, roster continuity, team identity, and injury luck
 img: assets/img/NBA_2627_Standings_Thumbnail.png
 importance: 3
 category: Upcoming
