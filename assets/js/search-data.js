@@ -84,11 +84,11 @@ ninja.data = [{
           description: "20 games in, who will win the award at the end of the year?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project_NBA_ROTY_26/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-nba-2026-27-standings-predictions",
+          title: 'NBA 2026-27 Standings Predictions',
+          description: "How do I project the 26-27 NBA Regular Season Standings to Finish?",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/5_project_NBA_stand27/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
