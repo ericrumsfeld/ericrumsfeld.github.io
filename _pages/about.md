@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm an early career Data Scientist currently contributing to the future of AI image generation as a MOVE Fellow at Handshake. 
+I'm an early career Data Scientist uncovering hidden narratives through data-driven storytelling with CBB Analytics, and formerly contributing to the future of AI image generation as a MOVE Fellow at Handshake. 
 
-After graduating with an M.S. in Astrophysics at the University of California, Irvine, I am transitioning into an impact-focused analytics career where I use data to tell stories. I am currently obsessed with sports data and I have multiple ongoing projects pushing our understanding of the role of analytics in this world. 
+After graduating with an M.S. in Astrophysics at the University of California, Irvine, I am transitioning into an impact-focused analytics career where I use data to tell stories through meticulous statistical approaches and clean visualizations and presentations. I am currently obsessed with sports data and I have multiple ongoing projects pushing our understanding of the role of analytics in this world. My work has primarily centered around the NBA, WNBA, and NCAA D1 Basketball, but I have broad interests in the data of the soccer, healthcare, and climate industries as well. 
 
-I love to work with others! Please contact me at erumsfel [at] uci.edu with potential project inquiries. 
+You can learn more about my story and who I am as a person via the [About Me](/about_eric/) tab. I love to work with others! Please contact me at erumsfel [at] uci.edu with potential project inquiries. 
