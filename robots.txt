@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ericrumsfeld.github.io/sitemap.xml
+Sitemap: https://ericrumsfeld.com/sitemap.xml
