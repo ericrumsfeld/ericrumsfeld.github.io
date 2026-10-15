@@ -2,7 +2,7 @@
 layout: page
 title: March Risers
 description: How exactly is March performance linked to NBA Draft Outcomes?
-<!--img: assets/img/7.jpg-->
+img: assets/March Risers Thumbnail.png
 importance: 2
 category: Upcoming
 ---
