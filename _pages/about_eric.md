@@ -28,6 +28,14 @@ I absolutely love volunteering! Besides it being an activity with personal physi
 Currently in Sacramento, I volunteer at 2 different food distribution centers: South Sacramento Christian Center (SSCC) and G7 Thy Presence's School of Faith Ministries. I volunteer on Saturday mornings and Sunday afternoons by unloading and sorting deliveries, organizing food from freezers, refrigerators, and storage, assembling food boxes, bagging human and pet food, directing traffic, operating a pallet jack, and loading food boxes into vehicles. Through these contributions, I strengthened my organizational and teamwork skills. 
 If you want to jump in and understand how you may give back to your community, please do a quick google search– it’s generally easier to find and join opportunities than you’d expect!
 
+{% include figure.liquid
+path="assets/img/eric_volunteering.jpeg"
+title="Volunteering at the SSCC"
+class="img-fluid rounded z-depth-1"
+%}
+
+
+
 
 ### Geography
 Since high school, geography has consistently been one of my favorite topics to think about and study. I can’t really explain why. National Geographic says:
