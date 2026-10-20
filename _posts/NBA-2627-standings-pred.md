@@ -55,7 +55,7 @@ Find out now in my NBA 2026-27 Regular Season standings predictions, with nuance
 
 
 <!-- 11. Jazz -->
-### <img src="{{ '/assets/img/NBA_Standings/jazz.png' | relative_url }}" width="35" alt="Jazz Logo" style="vertical-align: middle; margin-right: 8px;"> 11- Utah Jazz [last: 15 Seed, 22-60]
+### <img src="{{ '/assets/img/NBA_Standings/jazz.png' | relative_url }}" width="35" alt="Jazz Logo" style="vertical-align: middle; margin-right: 8px;"> 11. Utah Jazz [last: 15 Seed, 22-60]
 
 
 <!-- 12. Grizzlies -->
