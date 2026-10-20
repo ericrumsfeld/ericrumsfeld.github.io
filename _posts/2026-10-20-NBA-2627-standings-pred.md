@@ -9,7 +9,7 @@ category: work
 ---
 
 On the eve of what is slated to be the NBA's most exciting regular season to date, how do I forecast the teams to finish when all is said and done? 
-For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams. Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA my storm as the Spurs did last season?
+For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams. Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA by storm as the Spurs did last season?
 Find out now in my NBA 2026-27 Regular Season standings predictions, with nuanced modeling for off-season moves, roster continuity, team identity, and injury luck.
 
 
@@ -77,7 +77,7 @@ Find out now in my NBA 2026-27 Regular Season standings predictions, with nuance
 
 
 
-
+<hr>
 
 
 
