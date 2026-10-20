@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/about-me/";
           },
-        },{id: "post-march-madness-tournament-predictor",
+        },{id: "post-nba-2026-27-standings-predictions",
+        
+          title: "NBA 2026-27 Standings Predictions",
+        
+        description: "How will the NBA Standings Finish?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/NBA-2627-standings-pred/";
+          
+        },
+      },{id: "post-march-madness-tournament-predictor",
         
           title: "March Madness Tournament Predictor",
         
