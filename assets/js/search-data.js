@@ -100,11 +100,6 @@ ninja.data = [{
           description: "With nuanced modeling for off-season moves, roster continuity, team identity, and injury luck",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project_NBA_stand27/";
-            },},{id: "projects-nba-draft-player-movement-tracker",
-          title: 'NBA Draft Player Movement Tracker',
-          description: "Interactive visualization of NBA Draft prospect rankings across seasons.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project_BB_Player_Movement/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
