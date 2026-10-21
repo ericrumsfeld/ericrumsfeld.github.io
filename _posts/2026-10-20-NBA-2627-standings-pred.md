@@ -120,7 +120,7 @@ Find out now in my NBA 2026-27 Regular Season standings predictions, with nuance
 # Western Conference
 <br>
 <!-- 1. Spurs -->
-### <img src="{{ '/assets/img/NBA_Standings/spurs.png' | relative_url }}" width="35" alt="Spurs Logo" style="vertical-align: middle; margin-right: 8px;"> 1. San Antonio Spurs [last: 2 seed, 62-20]
+### <img src="{{ '/assets/img/NBA_Standings/spurs.png' | relative_url }}" width="35" alt="Spurs Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>1. San Antonio Spurs [Last Season: 2 seed, 62-20]</strong>
 Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Victor Wembanyama. Posting the 4th best offense and 3rd best defense last season, with fantastic continuity and a clear identity, the Spurs will have another immensely successful season if Wemby can stay healthy. This team is young, always developing, always feisty, and their frontcourt depth has been strongly bolstered through their off-season moves. The franchise has a clear intent to put physicality around Wemby, raising their floor, and Dylan Harper’s seemingly endless potential gives me optimism for a high ceiling. Although each team in the Southwestern Conference should be improved from last year, potentially stealing a few more wins from the Spurs (last year they went 13-3 against division rivals), I think the talent and system here is too great to ultimately deny their top spot in the West. 
 
 
@@ -250,28 +250,28 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
 
 <br>
 <!-- 2. Thunder -->
-### <img src="{{ '/assets/img/NBA_Standings/thunder.png' | relative_url }}" width="35" alt="Thunder Logo" style="vertical-align: middle; margin-right: 8px;"> 2. Oklahoma City Thunder [last: 1 seed, 64-18]
+### <img src="{{ '/assets/img/NBA_Standings/thunder.png' | relative_url }}" width="35" alt="Thunder Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>2. Oklahoma City Thunder [Last Season: 1 seed, 64-18]</strong>
 
 
 <br>
 <!-- 3. Lakers -->
-### <img src="{{ '/assets/img/NBA_Standings/lakers.png' | relative_url }}" width="35" alt="Lakers Logo" style="vertical-align: middle; margin-right: 8px;"> 3. Los Angeles Lakers [last: 4 seed, 53-29]
+### <img src="{{ '/assets/img/NBA_Standings/lakers.png' | relative_url }}" width="35" alt="Lakers Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>3. Los Angeles Lakers [Last Season: 4 seed, 53-29]</strong>
 
 <br>
 <!-- 4. Rockets -->
-### <img src="{{ '/assets/img/NBA_Standings/rockets.png' | relative_url }}" width="35" alt="Rockets Logo" style="vertical-align: middle; margin-right: 8px;"> 4. Houston Rockets [last: 5 seed, 52-30]
+### <img src="{{ '/assets/img/NBA_Standings/rockets.png' | relative_url }}" width="35" alt="Rockets Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>4. Houston Rockets [Last Season: 5 seed, 52-30]</strong>
 
 <br>
 <!-- 5. Nuggets -->
-### <img src="{{ '/assets/img/NBA_Standings/nuggets.png' | relative_url }}" width="35" alt="Nuggets Logo" style="vertical-align: middle; margin-right: 8px;"> 5. Denver Nuggets [last: 3 seed, 54-28]
+### <img src="{{ '/assets/img/NBA_Standings/nuggets.png' | relative_url }}" width="35" alt="Nuggets Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>5. Denver Nuggets [Last Season: 3 seed, 54-28]</strong>
 
 <br>
 <!-- 6. Twolves -->
-### <img src="{{ '/assets/img/NBA_Standings/timberwolves.png' | relative_url }}" width="35" alt="Timberwolves Logo" style="vertical-align: middle; margin-right: 8px;"> 6. Minnesota Timberwolves [last: 6 seed, 49-33]
+### <img src="{{ '/assets/img/NBA_Standings/timberwolves.png' | relative_url }}" width="35" alt="Timberwolves Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>6. Minnesota Timberwolves [Last Season: 6 seed, 49-33]</strong>
 
 <br>
 <!-- 7. Mavs -->
-### <img src="{{ '/assets/img/NBA_Standings/mavs.png' | relative_url }}" width="35" alt="Mavericks Logo" style="vertical-align: middle; margin-right: 8px;"> 7. Dallas Mavericks [last: 12 seed, 26-56]
+### <img src="{{ '/assets/img/NBA_Standings/mavs.png' | relative_url }}" width="35" alt="Mavericks Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>7. Dallas Mavericks [Last Season: 12 seed, 26-56]</strong>
 Most NBA 2026-27 standings predictions seemingly take a swing on the Mavericks, Grizzlies, or Jazz to be much improved from last season. My bet is on the Mavs. I personally am very excited for first time NBA coach Dusty May (CBS Rank 26) who was amazing in college and I think he’s going to bring a fresh, analytically driven approach to this team. Yes, the roster has Masai Ujiri’s fingerprint all over it with an overabundance of unspecialized tall wings, and there are reasons to seriously doubt its 3 point shooting and ball handling depth as a result, but I think Cooper Flagg will truly break out as a star, finishing the season with serious all-NBA consideration.
 
 
@@ -384,42 +384,42 @@ Most NBA 2026-27 standings predictions seemingly take a swing on the Mavericks, 
 
 <br>
 <!-- 8. Suns -->
-### <img src="{{ '/assets/img/NBA_Standings/suns.png' | relative_url }}" width="35" alt="Suns Logo" style="vertical-align: middle; margin-right: 8px;"> 8. Phoenix Suns [last: 8 seed, 45-37]
+### <img src="{{ '/assets/img/NBA_Standings/suns.png' | relative_url }}" width="35" alt="Suns Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>8. Phoenix Suns [Last Season: 8 seed, 45-37]</strong>
 
 
 <br>
 <!-- 9. Blazers -->
-### <img src="{{ '/assets/img/NBA_Standings/blazers.png' | relative_url }}" width="35" alt="Trail Blazers Logo" style="vertical-align: middle; margin-right: 8px;"> 9. Portland Trail Blazers [last: 7 seed, 42-40]
+### <img src="{{ '/assets/img/NBA_Standings/blazers.png' | relative_url }}" width="35" alt="Trail Blazers Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>9. Portland Trail Blazers [Last Season: 7 seed, 42-40]</strong>
 
 
 <br>
 <!-- 10. Pelicans -->
-### <img src="{{ '/assets/img/NBA_Standings/pelicans.png' | relative_url }}" width="35" alt="Pelicans Logo" style="vertical-align: middle; margin-right: 8px;"> 10. New Orleans Pelicans [last: 11 seed, 26-56]
+### <img src="{{ '/assets/img/NBA_Standings/pelicans.png' | relative_url }}" width="35" alt="Pelicans Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>10. New Orleans Pelicans [Last Season: 11 seed, 26-56]</strong>
 
 
 <br>
 <!-- 11. Jazz -->
-### <img src="{{ '/assets/img/NBA_Standings/jazz.png' | relative_url }}" width="35" alt="Jazz Logo" style="vertical-align: middle; margin-right: 8px;"> 11. Utah Jazz [last: 15 Seed, 22-60]
+### <img src="{{ '/assets/img/NBA_Standings/jazz.png' | relative_url }}" width="35" alt="Jazz Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>11. Utah Jazz [Last Season: 15 Seed, 22-60]</strong>
 
 
 <br>
 <!-- 12. Grizzlies -->
-### <img src="{{ '/assets/img/NBA_Standings/grizzlies.png' | relative_url }}" width="35" alt="Grizzlies Logo" style="vertical-align: middle; margin-right: 8px;"> 12. Memphis Grizzlies [last: 13 seed, 25-57]
+### <img src="{{ '/assets/img/NBA_Standings/grizzlies.png' | relative_url }}" width="35" alt="Grizzlies Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>12. Memphis Grizzlies [Last Season: 13 seed, 25-57]</strong>
 
 
 <br>
 <!-- 13. Warriors -->
-### <img src="{{ '/assets/img/NBA_Standings/warriors.png' | relative_url }}" width="35" alt="Warriors Logo" style="vertical-align: middle; margin-right: 8px;"> 13. Golden State Warriors [last: 10 Seed, 37-45]
+### <img src="{{ '/assets/img/NBA_Standings/warriors.png' | relative_url }}" width="35" alt="Warriors Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>13. Golden State Warriors [Last Season: 10 Seed, 37-45]</strong>
 
 
 <br>
 <!-- 14. Clips -->
-### <img src="{{ '/assets/img/NBA_Standings/clippers.png' | relative_url }}" width="35" alt="Clippers Logo" style="vertical-align: middle; margin-right: 8px;"> 14. Los Angeles Clippers [last: 9 Seed, 42-40]
+### <img src="{{ '/assets/img/NBA_Standings/clippers.png' | relative_url }}" width="35" alt="Clippers Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>14. Los Angeles Clippers [Last Season: 9 Seed, 42-40]</strong>
 
 
 <br>
 <!-- 15. Kings -->
-### <img src="{{ '/assets/img/NBA_Standings/kings.png' | relative_url }}" width="35" alt="Kings Logo" style="vertical-align: middle; margin-right: 8px;"> 15. Sacramento Kings [last: 14 seed, 22-60]
+### <img src="{{ '/assets/img/NBA_Standings/kings.png' | relative_url }}" width="35" alt="Kings Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>15. Sacramento Kings [Last Season: 14 seed, 22-60]</strong>
 
 
 
@@ -432,77 +432,77 @@ Most NBA 2026-27 standings predictions seemingly take a swing on the Mavericks, 
 <br>
 
 <!-- 1. Celtics -->
-### <img src="{{ '/assets/img/NBA_Standings/celtics.png' | relative_url }}" width="35" alt="Celtics Logo" style="vertical-align: middle; margin-right: 8px;"> 1. Boston Celtics [last: 2 Seed, 56-26]
+### <img src="{{ '/assets/img/NBA_Standings/celtics.png' | relative_url }}" width="35" alt="Celtics Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>1. Boston Celtics [Last Season: 2 Seed, 56-26]</strong>
 
 
 <br>
 <!-- 2. Knicks -->
-### <img src="{{ '/assets/img/NBA_Standings/knicks.png' | relative_url }}" width="35" alt="Knicks Logo" style="vertical-align: middle; margin-right: 8px;"> 2. New York Knicks [last: 3 Seed, 53-29]
+### <img src="{{ '/assets/img/NBA_Standings/knicks.png' | relative_url }}" width="35" alt="Knicks Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>2. New York Knicks [Last Season: 3 Seed, 53-29]</strong>
 
 
 <br>
 <!-- 3. Cavs -->
-### <img src="{{ '/assets/img/NBA_Standings/cavs.png' | relative_url }}" width="35" alt="Cavaliers Logo" style="vertical-align: middle; margin-right: 8px;"> 3. Cleveland Cavaliers [last: 4 Seed, 52-30]
+### <img src="{{ '/assets/img/NBA_Standings/cavs.png' | relative_url }}" width="35" alt="Cavaliers Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>3. Cleveland Cavaliers [Last Season: 4 Seed, 52-30]</strong>
 
 
 <br>
 <!-- 4. Pistons -->
-### <img src="{{ '/assets/img/NBA_Standings/pistons.png' | relative_url }}" width="35" alt="Pistons Logo" style="vertical-align: middle; margin-right: 8px;"> 4. Detroit Pistons [last: 1 Seed, 60-22]
+### <img src="{{ '/assets/img/NBA_Standings/pistons.png' | relative_url }}" width="35" alt="Pistons Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>4. Detroit Pistons [Last Season: 1 Seed, 60-22]</strong>
 
 
 <br>
 <!-- 5. 76ers -->
-### <img src="{{ '/assets/img/NBA_Standings/sixers.png' | relative_url }}" width="35" alt="Sixers Logo" style="vertical-align: middle; margin-right: 8px;"> 5. Philadelphia 76ers [last: 7 Seed, 45-37]
+### <img src="{{ '/assets/img/NBA_Standings/sixers.png' | relative_url }}" width="35" alt="Sixers Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>5. Philadelphia 76ers [Last Season: 7 Seed, 45-37]</strong>
 
 
 <br>
 <!-- 6. Pacers -->
-### <img src="{{ '/assets/img/NBA_Standings/pacers.png' | relative_url }}" width="35" alt="Pacers Logo" style="vertical-align: middle; margin-right: 8px;"> 6. Indiana Pacers [Last Season: 14 Seed, 19-63]
+### <img src="{{ '/assets/img/NBA_Standings/pacers.png' | relative_url }}" width="35" alt="Pacers Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>6. Indiana Pacers [Last Season: 14 Seed, 19-63]</strong>
 
 
 <br>
 <!-- 7. Raptors -->
-### <img src="{{ '/assets/img/NBA_Standings/raptors.png' | relative_url }}" width="35" alt="Raptors Logo" style="vertical-align: middle; margin-right: 8px;"> 7. Toronto Raptors [last: 5 Seed, 46-36]
+### <img src="{{ '/assets/img/NBA_Standings/raptors.png' | relative_url }}" width="35" alt="Raptors Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>7. Toronto Raptors [Last Season: 5 Seed, 46-36]</strong>
 
 
 <br>
 <!-- 8. Heat -->
-### <img src="{{ '/assets/img/NBA_Standings/heat.png' | relative_url }}" width="35" alt="Heat Logo" style="vertical-align: middle; margin-right: 8px;"> 8. Miami Heat [last: 10 Seed, 43-39]
+### <img src="{{ '/assets/img/NBA_Standings/heat.png' | relative_url }}" width="35" alt="Heat Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>8. Miami Heat [Last Season: 10 Seed, 43-39]</strong>
 
 
 <br>
 <!-- 9. Hawks -->
-### <img src="{{ '/assets/img/NBA_Standings/hawks.png' | relative_url }}" width="35" alt="Hawks Logo" style="vertical-align: middle; margin-right: 8px;"> 9. Atlanta Hawks [last: 6 Seed, 46-36]
+### <img src="{{ '/assets/img/NBA_Standings/hawks.png' | relative_url }}" width="35" alt="Hawks Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>9. Atlanta Hawks [Last Season: 6 Seed, 46-36]</strong>
 
 
 <br>
 <!-- 10. Magic -->
-### <img src="{{ '/assets/img/NBA_Standings/magic.png' | relative_url }}" width="35" alt="Magic Logo" style="vertical-align: middle; margin-right: 8px;"> 10. Orlando Magic [last: 8 Seed, 45-37]
+### <img src="{{ '/assets/img/NBA_Standings/magic.png' | relative_url }}" width="35" alt="Magic Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>10. Orlando Magic [Last Season: 8 Seed, 45-37]</strong>
 
 
 <br>
 <!-- 11. Hornets -->
-### <img src="{{ '/assets/img/NBA_Standings/hornets.png' | relative_url }}" width="35" alt="Hornets Logo" style="vertical-align: middle; margin-right: 8px;"> 11. Charlotte Hornets [last: 9 Seed, 44-38]
+### <img src="{{ '/assets/img/NBA_Standings/hornets.png' | relative_url }}" width="35" alt="Hornets Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>11. Charlotte Hornets [Last Season: 9 Seed, 44-38]</strong>
 
 
 <br>
 <!-- 12. Wizards -->
-### <img src="{{ '/assets/img/NBA_Standings/wizards.png' | relative_url }}" width="35" alt="Wizards Logo" style="vertical-align: middle; margin-right: 8px;"> 12. Washington Wizards [last: 15 Seed, 17-65]
+### <img src="{{ '/assets/img/NBA_Standings/wizards.png' | relative_url }}" width="35" alt="Wizards Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>12. Washington Wizards [Last Season: 15 Seed, 17-65]</strong>
 
 
 <br>
 <!-- 13. Bulls -->
-### <img src="{{ '/assets/img/NBA_Standings/bulls.png' | relative_url }}" width="35" alt="Bulls Logo" style="vertical-align: middle; margin-right: 8px;"> 13. Chicago Bulls [last: 12 Seed, 31-51]
+### <img src="{{ '/assets/img/NBA_Standings/bulls.png' | relative_url }}" width="35" alt="Bulls Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>13. Chicago Bulls [Last Season: 12 Seed, 31-51]</strong>
 
 
 <br>
 <!-- 14. Nets -->
-### <img src="{{ '/assets/img/NBA_Standings/nets.png' | relative_url }}" width="35" alt="Nets Logo" style="vertical-align: middle; margin-right: 8px;"> 14. Brooklyn Nets [last: 13 Seed, 20-62]
+### <img src="{{ '/assets/img/NBA_Standings/nets.png' | relative_url }}" width="35" alt="Nets Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>14. Brooklyn Nets [Last Season: 13 Seed, 20-62]</strong>
 
 
 <br>
 <!-- 15. Bucks -->
-### <img src="{{ '/assets/img/NBA_Standings/bucks.png' | relative_url }}" width="35" alt="Bucks Logo" style="vertical-align: middle; margin-right: 8px;"> 15. Milwaukee Bucks [last: 11 Seed, 32-50]
+### <img src="{{ '/assets/img/NBA_Standings/bucks.png' | relative_url }}" width="35" alt="Bucks Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>15. Milwaukee Bucks [Last Season: 11 Seed, 32-50]</strong>
 
 
 <hr>
