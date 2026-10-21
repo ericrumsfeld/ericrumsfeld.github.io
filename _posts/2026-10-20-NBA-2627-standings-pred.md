@@ -37,7 +37,7 @@ category: work
   }
 
   .grade-a-plus { background-color: #32de84; }
-  .grade-a      { background-color: #289f3b; color: #fff; }
+  .grade-a      { background-color: #289f3b; }
   .grade-a-minus{ background-color: #4db65c; }
   .grade-b-plus { background-color: #80c77f; }
   .grade-b      { background-color: #b3e5a1; }
@@ -47,8 +47,8 @@ category: work
   .grade-c-minus{ background-color: #f9c24d; }
   .grade-d-plus { background-color: #f9a829; }
   .grade-d      { background-color: #f78d2e; }
-  .grade-d-minus{ background-color: #d85a28; color: #fff; }
-  .grade-f      { background-color: #d22b2b; color: #fff; }
+  .grade-d-minus{ background-color: #d85a28; }
+  .grade-f      { background-color: #d22b2b; }
 
   .prediction-details {
     margin-bottom: 14px;
@@ -109,7 +109,10 @@ category: work
 
 
 
-On the eve of what is slated to be the NBA's most exciting regular season to date, how do I forecast the teams to finish when all is said and done?<br>For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams.<br>Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA by storm as the Spurs did last season?<br>Find out now in my NBA 2026-27 Regular Season standings predictions, with nuanced modeling for off-season moves, roster continuity, team identity, and injury luck.
+On the eve of what is slated to be the NBA's most exciting regular season to date, how do I forecast the teams to finish when all is said and done?<br>
+For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams.<br>
+Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA by storm as the Spurs did last season?<br>
+Find out now in my NBA 2026-27 Regular Season standings predictions, with nuanced modeling for off-season moves, roster continuity, team identity, and injury luck.
 
 <hr>
 <hr>
@@ -421,7 +424,7 @@ Most NBA 2026-27 standings predictions seemingly take a swing on the Mavericks, 
 
 
 <hr>
-
+<hr>
 
 
 # Eastern Conference
@@ -502,7 +505,8 @@ Most NBA 2026-27 standings predictions seemingly take a swing on the Mavericks, 
 ### <img src="{{ '/assets/img/NBA_Standings/bucks.png' | relative_url }}" width="35" alt="Bucks Logo" style="vertical-align: middle; margin-right: 8px;"> 15. Milwaukee Bucks [last: 11 Seed, 32-50]
 
 
-
+<hr>
+<hr>
 
 
 
