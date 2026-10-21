@@ -119,117 +119,7 @@ category: Interactive
         'Rank: %{y}<extra></extra>'
     });
 
-
-
-const seasonEvents = {
-  '2023-2024': {
-    seasonStart: '2023-11-06',
-    marchStart: '2024-03-21',
-    marchEnd: '2024-04-08',
-    combineStart: '2024-05-12',
-    combineEnd: '2024-05-19'
-  },
-  '2024-2025': {
-    seasonStart: '2024-11-04',
-    marchStart: '2025-03-20',
-    marchEnd: '2025-04-07',
-    combineStart: '2025-05-11',
-    combineEnd: '2025-05-18'
-  },
-  '2025-2026': {
-    seasonStart: '2025-11-03',
-    marchStart: '2026-03-19',
-    marchEnd: '2026-04-06',
-    combineStart: '2026-05-10',
-    combineEnd: '2026-05-17'
-  }
-};
-
-const eventColors = {
-  seasonStart: '#fb5607',
-  marchMadness: '#006644',
-  nbaCombine: '#8338ec'
-};
-
-const events = seasonEvents[season];
-
-
-const eventLines = [];
-const eventLabels = [];
-
-function addEventLine(date, color) {
-  eventLines.push({
-    type: 'line',
-    xref: 'x',
-    yref: 'paper',
-    x0: date,
-    x1: date,
-    y0: 0,
-    y1: 1,
-    line: {
-      color: color,
-      width: 1.7,
-      dash: 'dash'
-    }
-  });
-}
-
-function addEventLabel(text, date, color, xanchor = 'center') {
-  eventLabels.push({
-    xref: 'x',
-    yref: 'paper',
-    x: date,
-    y: 0.97,
-    text: `<b>${text}</b>`,
-    showarrow: false,
-    xanchor: xanchor,
-    yanchor: 'top',
-    font: {
-      size: 11,
-      color: color
-    },
-    bgcolor: 'rgba(255,255,255,0.88)',
-    borderpad: 4
-  });
-}
-
-function midpoint(date1, date2) {
-  const a = new Date(date1).getTime();
-  const b = new Date(date2).getTime();
-
-  return new Date((a + b) / 2).toISOString().slice(0, 10);
-}
-
-// Season Start
-addEventLine(events.seasonStart, eventColors.seasonStart);
-
-addEventLabel(
-  'Season Start',
-  events.seasonStart,
-  eventColors.seasonStart,
-  'left'
-);
-
-// March Madness
-addEventLine(events.marchStart, eventColors.marchMadness);
-addEventLine(events.marchEnd, eventColors.marchMadness);
-
-addEventLabel(
-  'March<br>Madness',
-  midpoint(events.marchStart, events.marchEnd),
-  eventColors.marchMadness
-);
-
-// NBA Combine
-addEventLine(events.combineStart, eventColors.nbaCombine);
-addEventLine(events.combineEnd, eventColors.nbaCombine);
-
-addEventLabel(
-  'NBA<br>Combine',
-  midpoint(events.combineStart, events.combineEnd),
-  eventColors.nbaCombine
-);
-
+    
 
 const layout = {
   // Dynamic plot title
@@ -267,9 +157,8 @@ const layout = {
     automargin: true
   },
 
-  // Horizontal and Vertical reference lines
-shapes: [
-  ...[14, 30, 60].map(rank => ({
+  // Blue horizontal reference lines
+  shapes: [14, 30, 60].map(rank => ({
     type: 'line',
     xref: 'paper',
     x0: 0,
@@ -283,8 +172,6 @@ shapes: [
       width: 1.5
     }
   })),
-  ...eventLines
-],
 
   // Vertical upward arrows at right end of each line
   annotations: [
@@ -319,8 +206,6 @@ shapes: [
     bgcolor: 'rgba(255,255,255,0.85)',
     borderpad: 2
   })),
-  ...eventLabels
-],
 
   // Give labels and arrows enough space
   margin: {
@@ -351,7 +236,3 @@ shapes: [
   updatePlayers();
 })();
 </script>
-
-
-
-
