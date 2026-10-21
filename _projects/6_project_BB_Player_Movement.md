@@ -120,49 +120,76 @@ category: Interactive
     });
 
     
+
 const layout = {
-  title: `${player} — ${season} Big Board Movement`,
+  // Dynamic plot title
+  title: {
+    text: `${player} Rank Movement ${season.replace('-', '–').replace(/20(\d{2})$/, '$1')}`,
+    x: 0.5,
+    xanchor: 'center',
+    font: {
+      size: 20,
+      color: '#333333'
+    }
+  },
 
+  // X-axis
   xaxis: {
-    title: 'Article Date',
-    type: 'date'
+    title: {
+      text: 'Article Date',
+      font: { size: 15, color: '#333333' },
+      standoff: 15
+    },
+    type: 'date',
+    tickfont: { size: 12, color: '#333333' },
+    automargin: true
   },
 
+  // Y-axis
   yaxis: {
-    title: 'Big Board Rank',
-    range: [105, 0]
+    title: {
+      text: 'Big Board Rank',
+      font: { size: 15, color: '#333333' },
+      standoff: 15
+    },
+    range: [105, 0],
+    tickfont: { size: 12, color: '#333333' },
+    automargin: true
   },
 
+  // Blue horizontal reference lines
   shapes: [14, 30, 60].map(rank => ({
     type: 'line',
     xref: 'paper',
     x0: 0,
     x1: 1,
+    yref: 'y',
     y0: rank,
     y1: rank,
     line: {
       color: '#38bdf8',
-      dash: 'dot',
+      dash: 'dash',
       width: 1.5
     }
   })),
 
+  // Vertical upward arrows at right end of each line
   annotations: [
     { rank: 14, label: 'Lottery' },
     { rank: 30, label: '1st Round' },
     { rank: 60, label: '2nd Round' }
   ].map(item => ({
     xref: 'paper',
-    x: 1,
+    x: 1.015,
     yref: 'y',
     y: item.rank,
+    ax: 0,
+    ay: 20,
 
     text: item.label,
     showarrow: true,
 
-    // Arrow points upward toward rank 0
-    ax: 48,
-    ay: 24,
+    // Tail sits below the arrowhead
 
     arrowhead: 2,
     arrowsize: 1,
@@ -171,23 +198,29 @@ const layout = {
 
     font: {
       size: 11,
-      color: '#38bdf8'
+      color: '#555555'
     },
 
+    xanchor: 'left',
+    align: 'left',
     bgcolor: 'rgba(255,255,255,0.85)',
-    borderpad: 3
+    borderpad: 2
   })),
 
+  // Give labels and arrows enough space
   margin: {
-    l: 65,
-    r: 110,
-    t: 65,
-    b: 65
+    l: 100,
+    r: 125,
+    t: 95,
+    b: 100
   },
 
   hovermode: 'closest',
-  showlegend: true
+  showlegend: true,
+  paper_bgcolor: '#ffffff',
+  plot_bgcolor: '#ffffff'
 };
+
 
 
     Plotly.react('movement-plot', traces, layout, {
