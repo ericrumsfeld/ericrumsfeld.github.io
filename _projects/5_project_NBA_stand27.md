@@ -14,6 +14,6 @@ Coming into a year many forecast as the most exciting and competitive NBA season
 **Tech:** Excel
 
 
-<i>Full article coming soon!</i>
+[Read the full article →](/blog/2026/NBA-2627-standings-pred/)
 
-<!--[Read the full article →](/blog/2026/MM26-RFA/)-->
+
