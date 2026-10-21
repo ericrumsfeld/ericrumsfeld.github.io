@@ -118,10 +118,10 @@ On the eve of what is slated to be the NBA's most exciting regular season to dat
 <br>
 <!-- 1. Spurs -->
 ### <img src="{{ '/assets/img/NBA_Standings/spurs.png' | relative_url }}" width="35" alt="Spurs Logo" style="vertical-align: middle; margin-right: 8px;"> 1. San Antonio Spurs [last: 2 seed, 62-20]
-Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Victor Wembanyama. Posting the 4th best offense and 3rd best defense last season, with fantastic continuity and a clear identity, the Spurs will have another immensely successful season if Wemby can stay healthy. This team is young, always developing, always feisty, and their frontcourt depth has been strongly bolstered through their off-season moves. The franchise has a clear intent to put physicality around Wemby, raising their floor, and Dylan Harper’s seemingly endless potential gives me optimism for a high ceiling. Each team in the Southwestern Conference should be improved from last year, potentially stealing a few more wins from the Spurs (last year they went 13-3 against division rivals), but I think the talent and system here is too great to ultimately deny their top spot in the West. 
+Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Victor Wembanyama. Posting the 4th best offense and 3rd best defense last season, with fantastic continuity and a clear identity, the Spurs will have another immensely successful season if Wemby can stay healthy. This team is young, always developing, always feisty, and their frontcourt depth has been strongly bolstered through their off-season moves. The franchise has a clear intent to put physicality around Wemby, raising their floor, and Dylan Harper’s seemingly endless potential gives me optimism for a high ceiling. Although each team in the Southwestern Conference should be improved from last year, potentially stealing a few more wins from the Spurs (last year they went 13-3 against division rivals), I think the talent and system here is too great to ultimately deny their top spot in the West. 
 
 
-<!-- NOTABLE DEPARTURES -->
+<!-- SPURS NOTABLE DEPARTURES -->
 <h4 class="prediction-section">
   Notable Departures
   <span class="prediction-grade grade-a-plus">A+</span>
@@ -133,7 +133,7 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
   </ul>
 </div>
 
-<!-- NOTABLE ADDITIONS -->
+<!-- SPURS NOTABLE ADDITIONS -->
 <h4 class="prediction-section">
   Notable Additions
   <span class="prediction-grade grade-a-minus">A−</span>
@@ -149,7 +149,7 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
   </ul>
 </div>
 
-<!-- ROSTER CONTINUITY -->
+<!-- SPURS ROSTER CONTINUITY -->
 <h4 class="prediction-section">
   Roster Continuity
   <span class="prediction-grade grade-a-plus">A+</span>
@@ -168,7 +168,7 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
   </ul>
 </div>
 
-<!-- SYSTEM -->
+<!-- SPURS SYSTEM -->
 <h4 class="prediction-section">
   System & Coaching
   <span class="prediction-grade grade-a-plus">A+</span>
@@ -191,7 +191,7 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
   </ul>
 </div>
 
-<!-- INJURY PROJECTION -->
+<!-- SPURS INJURY PROJECTION -->
 <h4 class="prediction-section">
   Injury Projection
   <span class="prediction-grade grade-c">C</span>
@@ -216,7 +216,7 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
   </ul>
 </div>
 
-<!-- EXTERNAL PROJECTIONS -->
+<!-- SPURS EXTERNAL PROJECTIONS -->
 <h4 class="prediction-section">
   External Projections
 </h4>
@@ -235,9 +235,20 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
 
 <hr>
 
+
+
+
+
+
+
+
+
+
+
 <br>
 <!-- 2. Thunder -->
 ### <img src="{{ '/assets/img/NBA_Standings/thunder.png' | relative_url }}" width="35" alt="Thunder Logo" style="vertical-align: middle; margin-right: 8px;"> 2. Oklahoma City Thunder [last: 1 seed, 64-18]
+
 
 <br>
 <!-- 3. Lakers -->
@@ -258,6 +269,114 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
 <br>
 <!-- 7. Mavs -->
 ### <img src="{{ '/assets/img/NBA_Standings/mavs.png' | relative_url }}" width="35" alt="Mavericks Logo" style="vertical-align: middle; margin-right: 8px;"> 7. Dallas Mavericks [last: 12 seed, 26-56]
+Most NBA 2026-27 standings predictions seemingly take a swing on the Mavericks, Grizzlies, or Jazz to be much improved from last season. My bet is on the Mavs. I personally am very excited for first time NBA coach Dusty May (CBS Rank 26) who was amazing in college and I think he’s going to bring a fresh, analytically driven approach to this team. Yes, the roster has Masai Ujiri’s fingerprint all over it with an overabundance of unspecialized tall wings, and there are reasons to seriously doubt its 3 point shooting and ball handling depth as a result, but I think Cooper Flagg will truly break out as a star, finishing the season with serious all-NBA consideration.
+
+
+<!-- MAVS NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-c-minus">C-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Klay Thompson
+    </li>
+    <li>
+      Ryan Nembhard 
+    </li>
+    <li>
+      Brandon Williams
+    </li>
+  </ul>
+</div>
+
+<!-- MAVS NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-a-minus">A−</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Kyrie Irving, played 0 games for them last year rehabbing from ACL tear late in the 2024-25 season
+    </li>
+    <li>
+      Santi Aldama
+    </li>
+    <li>
+      Zaccharie Risacher
+    </li>
+    <li>
+      Marcus Sasser
+    </li>
+    <li>
+      Morez Johnson Jr
+    </li>
+  </ul>
+</div>
+
+<!-- MAVS ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-b-plus">B+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The mavs keep the majority of their key contributors and depth, although there are a few notable changes, the replacements should slide right in without too much adjustment. 
+    </li>
+  </ul>
+</div>
+
+<!-- MAVS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-a-plus">A+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Dusty May (CBS Rank 26) is a new head coach, but will bring a solid, uniting personality to the team and an analytically driven offense centered on foundational principles. 
+    </li>
+  </ul>
+</div>
+
+<!-- MAVS INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The Mavs were average to somewhat unlucky last season with injuries. Besides Dereck Lively II, there’s no reason to believe they would become very unlucky this season, so injury factor shouldn’t play a huge role outside of Kyrie’s reintroduction.
+    </li>
+  </ul>
+</div>
+
+<!-- MAVS EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#22</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">33.5</span>
+  </div>
+</div>
+
 
 
 <br>
