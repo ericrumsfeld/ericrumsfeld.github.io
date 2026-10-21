@@ -26,8 +26,8 @@ category: interactive
 <script>
 (async function () {
   const response = await fetch(
-    "{{ '/assets/data/boards.json' | relative_url }}"
-  );
+  "{{ '/assets/json/boards.json' | relative_url }}"
+);
 
   if (!response.ok) {
     document.getElementById('movement-plot').textContent =
