@@ -119,29 +119,82 @@ category: Interactive
         'Rank: %{y}<extra></extra>'
     });
 
-    const layout = {
-      title: `${player} — ${season} Big Board Movement`,
-      xaxis: {title: 'Big Board Date', type: 'date'},
-      yaxis: {
-        title: 'Player Rank',
-        range: [105, 0]
-      },
-      shapes: [14, 30, 60].map(rank => ({
-        type: 'line',
-        xref: 'paper',
-        x0: 0, x1: 1,
-        y0: rank, y1: rank,
-        line: {color: '#38bdf8', dash: 'dash', width: 1}
-      })),
-      margin: {l: 55, r: 25, t: 65, b: 55},
-      hovermode: 'closest',
-      showlegend: true
-    };
+    
+const layout = {
+  title: `${player} — ${season} Big Board Movement`,
+
+  xaxis: {
+    title: 'Article Date',
+    type: 'date'
+  },
+
+  yaxis: {
+    title: 'Big Board Rank',
+    range: [105, 0]
+  },
+
+  shapes: [14, 30, 60].map(rank => ({
+    type: 'line',
+    xref: 'paper',
+    x0: 0,
+    x1: 1,
+    y0: rank,
+    y1: rank,
+    line: {
+      color: '#38bdf8',
+      dash: 'dot',
+      width: 1.5
+    }
+  })),
+
+  annotations: [
+    { rank: 14, label: 'Lottery' },
+    { rank: 30, label: '1st Round' },
+    { rank: 60, label: '2nd Round' }
+  ].map(item => ({
+    xref: 'paper',
+    x: 1,
+    yref: 'y',
+    y: item.rank,
+
+    text: item.label,
+    showarrow: true,
+
+    // Arrow points upward toward rank 0
+    ax: 48,
+    ay: 24,
+
+    arrowhead: 2,
+    arrowsize: 1,
+    arrowwidth: 1.5,
+    arrowcolor: '#38bdf8',
+
+    font: {
+      size: 11,
+      color: '#38bdf8'
+    },
+
+    bgcolor: 'rgba(255,255,255,0.85)',
+    borderpad: 3
+  })),
+
+  margin: {
+    l: 65,
+    r: 110,
+    t: 65,
+    b: 65
+  },
+
+  hovermode: 'closest',
+  showlegend: true
+};
+
 
     Plotly.react('movement-plot', traces, layout, {
-      responsive: true,
-      displaylogo: false
-    });
+  responsive: true,
+  displaylogo: false,
+  modeBarButtonsToRemove: ['select2d', 'lasso2d']
+});
   }
 
   seasonSelect.addEventListener('change', updatePlayers);
