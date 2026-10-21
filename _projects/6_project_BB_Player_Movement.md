@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: NBA Draft Player Movement Tracker
@@ -6,7 +7,6 @@ img: assets/img/Aday_Mara_Movement_2026.png
 importance: 1
 category: Interactive
 ---
-
 
 <script src="https://cdn.plot.ly/plotly-3.3.0.min.js"></script>
 
@@ -25,9 +25,10 @@ category: Interactive
 
 <script>
 (async function () {
+
   const response = await fetch(
-  "{{ '/assets/json/boards.json' | relative_url }}"
-);
+    "{{ '/assets/json/boards.json' | relative_url }}"
+  );
 
   if (!response.ok) {
     document.getElementById('movement-plot').textContent =
@@ -47,9 +48,11 @@ category: Interactive
   });
 
   seasonSelect.value = seasons.includes('2024-2025')
-    ? '2024-2025' : seasons[seasons.length - 1];
+    ? '2024-2025'
+    : seasons[seasons.length - 1];
 
   function updatePlayers() {
+
     const players = [...new Set(
       boards.filter(d => d.season === seasonSelect.value)
             .map(d => d.fullName)
@@ -72,20 +75,23 @@ category: Interactive
   }
 
   function drawPlot() {
+
     const season = seasonSelect.value;
     const player = playerSelect.value;
 
     const seasonData = boards.filter(d => d.season === season);
+
     const playerData = seasonData
       .filter(d => d.fullName === player)
       .sort((a, b) => a.boardDate.localeCompare(b.boardDate));
 
-    // Background: each other player's trajectory
+    // Background: other players' ranking trajectories
     const otherPlayers = [...new Set(
       seasonData.map(d => d.fullName)
     )].filter(name => name !== player);
 
     const traces = otherPlayers.map(name => {
+
       const rows = seasonData
         .filter(d => d.fullName === name)
         .sort((a, b) => a.boardDate.localeCompare(b.boardDate));
@@ -95,14 +101,20 @@ category: Interactive
         y: rows.map(d => d.rank),
         type: 'scatter',
         mode: 'lines+markers',
-        line: {color: 'rgba(150,150,150,0.18)', width: 1},
-        marker: {color: 'rgba(150,150,150,0.18)', size: 3},
+        line: {
+          color: 'rgba(150,150,150,0.18)',
+          width: 1
+        },
+        marker: {
+          color: 'rgba(150,150,150,0.18)',
+          size: 3
+        },
         hoverinfo: 'skip',
         showlegend: false
       };
     });
 
-    // Foreground: selected player
+    // Foreground: selected player's ranking trajectory
     traces.push({
       x: playerData.map(d => d.boardDate),
       y: playerData.map(d => d.rank),
@@ -110,129 +122,301 @@ category: Interactive
       type: 'scatter',
       mode: 'lines+markers',
       name: player,
-      line: {color: '#b91c1c', width: 2.5},
-      marker: {color: '#b91c1c', size: 8},
+      line: {
+        color: '#b91c1c',
+        width: 2.5
+      },
+      marker: {
+        color: '#b91c1c',
+        size: 8
+      },
       hovertemplate:
-        '<b>' + player.replaceAll('&', '&amp;').replaceAll('<', '&lt;') + '</b><br>' +
+        '<b>' +
+        player.replaceAll('&', '&amp;').replaceAll('<', '&lt;') +
+        '</b><br>' +
         'Source: %{customdata[0]}<br>' +
         'Date: %{x}<br>' +
         'Rank: %{y}<extra></extra>'
     });
 
-    
+    // --------------------------------------------------
+    // SEASON EVENT DATES
+    // --------------------------------------------------
 
-const layout = {
-  // Dynamic plot title
-  title: {
-    text: `${player} Rank Movement ${season.replace('-', '–').replace(/20(\d{2})$/, '$1')}`,
-    x: 0.5,
-    xanchor: 'center',
-    font: {
-      size: 20,
-      color: '#333333'
+    const seasonEvents = {
+      '2023-2024': {
+        seasonStart: '2023-11-06',
+        marchStart: '2024-03-21',
+        marchEnd: '2024-04-08',
+        combineStart: '2024-05-12',
+        combineEnd: '2024-05-19'
+      },
+
+      '2024-2025': {
+        seasonStart: '2024-11-04',
+        marchStart: '2025-03-20',
+        marchEnd: '2025-04-07',
+        combineStart: '2025-05-11',
+        combineEnd: '2025-05-18'
+      },
+
+      '2025-2026': {
+        seasonStart: '2025-11-03',
+        marchStart: '2026-03-19',
+        marchEnd: '2026-04-06',
+        combineStart: '2026-05-10',
+        combineEnd: '2026-05-17'
+      }
+    };
+
+    const eventColors = {
+      seasonStart: '#fb5607',
+      marchMadness: '#006644',
+      nbaCombine: '#8338ec'
+    };
+
+    const events = seasonEvents[season];
+
+    // --------------------------------------------------
+    // EVENT LINES AND LABELS
+    // --------------------------------------------------
+
+    const eventLines = [];
+    const eventLabels = [];
+
+    function addEventLine(date, color) {
+      eventLines.push({
+        type: 'line',
+        xref: 'x',
+        yref: 'paper',
+        x0: date,
+        x1: date,
+        y0: 0,
+        y1: 1,
+        line: {
+          color: color,
+          width: 1.7,
+          dash: 'dash'
+        }
+      });
     }
-  },
 
-  // X-axis
-  xaxis: {
-    title: {
-      text: 'Article Date',
-      font: { size: 15, color: '#333333' },
-      standoff: 15
-    },
-    type: 'date',
-    tickfont: { size: 12, color: '#333333' },
-    automargin: true
-  },
+    function addEventLabel(text, date, color, xanchor = 'center') {
+      eventLabels.push({
+        xref: 'x',
+        yref: 'paper',
+        x: date,
+        y: 1.02,
 
-  // Y-axis
-  yaxis: {
-    title: {
-      text: 'Big Board Rank',
-      font: { size: 15, color: '#333333' },
-      standoff: 15
-    },
-    range: [105, 0],
-    tickfont: { size: 12, color: '#333333' },
-    automargin: true
-  },
+        text: `<b>${text}</b>`,
+        showarrow: false,
 
-  // Blue horizontal reference lines
-  shapes: [14, 30, 60].map(rank => ({
-    type: 'line',
-    xref: 'paper',
-    x0: 0,
-    x1: 1,
-    yref: 'y',
-    y0: rank,
-    y1: rank,
-    line: {
-      color: '#38bdf8',
-      dash: 'dash',
-      width: 1.5
+        xanchor: xanchor,
+        yanchor: 'bottom',
+
+        font: {
+          size: 11,
+          color: color
+        },
+
+        bgcolor: 'rgba(255,255,255,0)',
+        borderpad: 0
+      });
     }
-  })),
 
-  // Vertical upward arrows at right end of each line
-  annotations: [
-    { rank: 14, label: 'Lottery' },
-    { rank: 30, label: '1st Round' },
-    { rank: 60, label: '2nd Round' }
-  ].map(item => ({
-    xref: 'paper',
-    x: 1.015,
-    yref: 'y',
-    y: item.rank,
-    ax: 0,
-    ay: 20,
+    function midpoint(date1, date2) {
+      const a = new Date(date1).getTime();
+      const b = new Date(date2).getTime();
 
-    text: item.label,
-    showarrow: true,
+      return new Date((a + b) / 2)
+        .toISOString()
+        .slice(0, 10);
+    }
 
-    // Tail sits below the arrowhead
+    if (events) {
 
-    arrowhead: 2,
-    arrowsize: 1,
-    arrowwidth: 1.5,
-    arrowcolor: '#38bdf8',
+      // Season Start
+      addEventLine(
+        events.seasonStart,
+        eventColors.seasonStart
+      );
 
-    font: {
-      size: 11,
-      color: '#555555'
-    },
+      addEventLabel(
+        'Season Start',
+        events.seasonStart,
+        eventColors.seasonStart,
+        'left'
+      );
 
-    xanchor: 'left',
-    align: 'left',
-    bgcolor: 'rgba(255,255,255,0.85)',
-    borderpad: 2
-  })),
+      // March Madness
+      addEventLine(
+        events.marchStart,
+        eventColors.marchMadness
+      );
 
-  // Give labels and arrows enough space
-  margin: {
-    l: 100,
-    r: 125,
-    t: 95,
-    b: 100
-  },
+      addEventLine(
+        events.marchEnd,
+        eventColors.marchMadness
+      );
 
-  hovermode: 'closest',
-  showlegend: true,
-  paper_bgcolor: '#ffffff',
-  plot_bgcolor: '#ffffff'
-};
+      addEventLabel(
+        'March Madness',
+        midpoint(events.marchStart, events.marchEnd),
+        eventColors.marchMadness
+      );
 
+      // NBA Combine
+      addEventLine(
+        events.combineStart,
+        eventColors.nbaCombine
+      );
 
+      addEventLine(
+        events.combineEnd,
+        eventColors.nbaCombine
+      );
+
+      addEventLabel(
+        'NBA Combine',
+        midpoint(events.combineStart, events.combineEnd),
+        eventColors.nbaCombine
+      );
+    }
+
+    // --------------------------------------------------
+    // PLOT LAYOUT
+    // --------------------------------------------------
+
+    const layout = {
+
+      title: {
+        text: `${player} Rank Movement ${season.replace('-', '–').replace(/20(\d{2})$/, '$1')}`,
+        x: 0.5,
+        xanchor: 'center',
+        font: {
+          size: 20,
+          color: '#333333'
+        }
+      },
+
+      xaxis: {
+        title: {
+          text: 'Article Date',
+          font: {
+            size: 15,
+            color: '#333333'
+          },
+          standoff: 15
+        },
+        type: 'date',
+        tickfont: {
+          size: 12,
+          color: '#333333'
+        },
+        automargin: true
+      },
+
+      yaxis: {
+        title: {
+          text: 'Big Board Rank',
+          font: {
+            size: 15,
+            color: '#333333'
+          },
+          standoff: 15
+        },
+        range: [105, 0],
+        tickfont: {
+          size: 12,
+          color: '#333333'
+        },
+        automargin: true
+      },
+
+      // Horizontal blue ranking thresholds
+      // plus vertical season event lines
+      shapes: [
+        ...[14, 30, 60].map(rank => ({
+          type: 'line',
+          xref: 'paper',
+          x0: 0,
+          x1: 1,
+          yref: 'y',
+          y0: rank,
+          y1: rank,
+          line: {
+            color: '#38bdf8',
+            dash: 'dash',
+            width: 1.5
+          }
+        })),
+        ...eventLines
+      ],
+
+      // Blue ranking labels/arrows plus event labels
+      annotations: [
+        ...[
+          { rank: 14, label: 'Lottery' },
+          { rank: 30, label: '1st Round' },
+          { rank: 60, label: '2nd Round' }
+        ].map(item => ({
+          xref: 'paper',
+          x: 1.015,
+          yref: 'y',
+          y: item.rank,
+
+          ax: 0,
+          ay: 20,
+
+          text: item.label,
+          showarrow: true,
+
+          arrowhead: 2,
+          arrowsize: 1,
+          arrowwidth: 1.5,
+          arrowcolor: '#38bdf8',
+
+          font: {
+            size: 11,
+            color: '#555555'
+          },
+
+          xanchor: 'left',
+          align: 'left',
+
+          bgcolor: 'rgba(255,255,255,0.85)',
+          borderpad: 2
+        })),
+
+        ...eventLabels
+      ],
+
+      margin: {
+        l: 100,
+        r: 125,
+        t: 145,
+        b: 100
+      },
+
+      hovermode: 'closest',
+      showlegend: true,
+
+      paper_bgcolor: '#ffffff',
+      plot_bgcolor: '#ffffff'
+    };
 
     Plotly.react('movement-plot', traces, layout, {
-  responsive: true,
-  displaylogo: false,
-  modeBarButtonsToRemove: ['select2d', 'lasso2d']
-});
+      responsive: true,
+      displaylogo: false,
+      modeBarButtonsToRemove: ['select2d', 'lasso2d']
+    });
+
   }
 
   seasonSelect.addEventListener('change', updatePlayers);
   playerSelect.addEventListener('change', drawPlot);
 
   updatePlayers();
+
 })();
 </script>
