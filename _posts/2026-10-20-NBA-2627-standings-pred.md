@@ -109,34 +109,22 @@ category: work
 
 
 
-On the eve of what is slated to be the NBA's most exciting regular season to date, how do I forecast the teams to finish when all is said and done? 
+On the eve of what is slated to be the NBA's most exciting regular season to date, how do I forecast the teams to finish when all is said and done?<br>For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams.<br>Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA by storm as the Spurs did last season?<br>Find out now in my NBA 2026-27 Regular Season standings predictions, with nuanced modeling for off-season moves, roster continuity, team identity, and injury luck.
 
-<br>
-
-For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams. 
-
-<br>
-
-Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA by storm as the Spurs did last season?
-
-<br>
-
-Find out now in my NBA 2026-27 Regular Season standings predictions, with nuanced modeling for off-season moves, roster continuity, team identity, and injury luck.
-
-
+<hr>
+<hr>
 
 # Western Conference
 <br>
-<br>
 <!-- 1. Spurs -->
 ### <img src="{{ '/assets/img/NBA_Standings/spurs.png' | relative_url }}" width="35" alt="Spurs Logo" style="vertical-align: middle; margin-right: 8px;"> 1. San Antonio Spurs [last: 2 seed, 62-20]
-Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Victor Wembanyama. Posting the 4th best offense and 3rd best defense last season, with fantastic continuity and a clear identity, the Spurs will have another immensely successful season if Wemby can stay healthy. This team is young, always developing, always feisty, and their frontcourt depth has been strongly bolstered through their off-season moves. The franchise has a clear intent to put physicality around Wemby, raising their floor and Dylan Harper’s seemingly endless potential gives me optimism for a high ceiling. Each team in the Southwestern Conference should be improved from last year, potentially stealing a few more wins from the Spurs (last year they went 13-3 against division rivals), but I think the talent and system here is too great to ultimately deny the top spot in the West. 
+Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Victor Wembanyama. Posting the 4th best offense and 3rd best defense last season, with fantastic continuity and a clear identity, the Spurs will have another immensely successful season if Wemby can stay healthy. This team is young, always developing, always feisty, and their frontcourt depth has been strongly bolstered through their off-season moves. The franchise has a clear intent to put physicality around Wemby, raising their floor, and Dylan Harper’s seemingly endless potential gives me optimism for a high ceiling. Each team in the Southwestern Conference should be improved from last year, potentially stealing a few more wins from the Spurs (last year they went 13-3 against division rivals), but I think the talent and system here is too great to ultimately deny their top spot in the West. 
 
 
 <!-- NOTABLE DEPARTURES -->
 <h4 class="prediction-section">
   Notable Departures
-  <span class="prediction-grade">None</span>
+  <span class="prediction-grade grade-a-plus">A+</span>
 </h4>
 
 <div class="prediction-details">
@@ -245,7 +233,7 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
   </div>
 </div>
 
-
+<hr>
 
 <br>
 <!-- 2. Thunder -->
