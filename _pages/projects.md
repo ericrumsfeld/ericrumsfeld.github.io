@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of basketball analytics, machine learning, and data visualization projects. <br>Built to uncover meaningful trends, answer real questions, and turn complex data into clear stories with actionable insights.
 nav: true
 nav_order: 1
-display_categories: [Completed, Upcoming]
+display_categories: [Interactive, Completed, Upcoming]
 horizontal: false
 ---
 
