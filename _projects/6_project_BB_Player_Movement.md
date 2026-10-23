@@ -2,7 +2,7 @@
 layout: page
 title: NBA Draft Player Movement Tracker
 description: Interactive visualization of NBA Draft prospect rankings across multiple seasons.
-img: assets/img/Aday_Mara_Movement_2026.png
+img: assets/img/Player_Mvmt_Track_Thumbnail.png
 importance: 1
 category: Interactive
 ---
