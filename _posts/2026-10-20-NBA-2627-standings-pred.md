@@ -111,7 +111,7 @@ category: work
 
 On the eve of what is slated to be the NBA's most exciting regular season to date, how do I forecast the teams to finish when all is said and done? For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams. Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA by storm as the Spurs did last season? Find out now in my NBA 2026-27 Regular Season standings predictions, with nuanced modeling for off-season moves, roster continuity, team identity, and injury luck.
 
-I also want to make it abundantly clear that correctly predicting NBA regular season standings with high accuracy is a very difficult undertaking. Only three games separated the 5 from 10 seed in the East last year. That’s what makes the NBA so much fun to follow. I believe one could reasonably place the Eastern Conference Seeds 1 through 8 in any given order. The Western Conference 3-6 Seeds and 7-13 Seeds could also be in any order without a complaint on my end. To highlight the tiers better, and to allow an excuse for myself when my predictions are inevitably imperfect, I have listed teams in 4 tiers in each conference.
+(Note: Correctly predicting NBA regular season standings with high accuracy is very difficult! Only three games separated the 5 from 10 seed in the East last year. That’s what makes the NBA so much fun to follow. I believe one could reasonably place the Eastern Conference Seeds 1 through 8 in any given order. The Western Conference 3-6 Seeds and 7-13 Seeds could also be in any order without a complaint from me. To highlight the tiers better, and to allow an excuse for myself when my predictions are inevitably imperfect, I have listed teams in 4 tiers in each conference.)
 
 <hr>
 <hr>
@@ -445,7 +445,7 @@ Welcome to the Luka show. The Lakers have transitioned off of the LeBron James e
 <!-- THUNDER ROSTER CONTINUITY -->
 <h4 class="prediction-section">
   Roster Continuity
-  <span class="prediction-grade grade-D-plus">D+</span>
+  <span class="prediction-grade grade-d-plus">D+</span>
 </h4>
 
 <div class="prediction-details">
@@ -520,6 +520,112 @@ Welcome to the Luka show. The Lakers have transitioned off of the LeBron James e
 The Rockets have desperately needed a reliable point guard as Reed Sheppard simply needs more time to develop. Adding Fred VanVleet’s 3-point shooting and steady playmaking will be a great relief for everyone on this team. I am mostly optimistic that the Rockets will have a great season, although I would bet we can’t expect 38 year old Kevin Durant to play 78 games again this year. Yes, the Rockets lose some relevant depth, but their strong off-season and overall continuity should be enough for this team to maintain their success from last year. 
 
 
+<!-- ROCKETS NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-b-plus">B+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+     Josh Okogie
+    </li>
+    <li>
+      Dorian Finney-Smith
+    </li>
+    <li>
+      Aaron Holiday
+    </li>
+  </ul>
+</div>
+
+<!-- ROCKETS NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-a-plus">A+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Fred VanVleet should be back to 100% after missing all of last season with a torn ACL
+    </li>
+    <li>
+      Steven Adams should be back as one of the league’s best offensive rebounders after only playing 32 games last season
+    </li>
+    <li>
+      Marcus Smart
+    </li>
+    <li>
+      Bogdan Bogdanovic
+    </li>
+  </ul>
+</div>
+
+<!-- ROCKETS ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-a-plus">A+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Kept an incredible amount of their roster with no super notable departures.
+    </li>
+  </ul>
+</div>
+
+<!-- ROCKETS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-b">B</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Ime Udoka (CBS Rank 17) seems to generally be a strong defensive and rebounded-minded coach who plays starters for big minutes, yet lacks some tactical flair on the offensive side of the ball. 
+    </li>
+  </ul>
+</div>
+
+<!-- ROCKETS INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-b-minus">B-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Outside of key injuries to Steven Adams and Fred VanVleet, they were incredibly lucky injury-wise last season with all of their main guys playing 70+ games. 
+    </li>
+    <li>
+      Would expect KD and other core members’ GP to regress down to mean a bit more. 
+    </li>
+  </ul>
+</div>
+
+<!-- ROCKETS EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#10</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">47.5</span>
+  </div>
+</div>
+
+<hr>
 
 
 
@@ -533,6 +639,116 @@ The Rockets have desperately needed a reliable point guard as Reed Sheppard simp
 Another season, another round of disappointment from the Nuggets front office. What’s new? The Nuggets scraped into the 3 seed last year due to the force of all-star Jamal Murray and Peyton Watson carrying the team during injuries to Nikola Jokić and Aaron Gordon, and a late winning streak against tanking teams. Although the starting lineup has reached outstanding success, able to battle anyone on their day, another year older means we can continue to expect injury misfortune to hold them back. The Nuggets desperately needed 3-point shooting and <span style="text-decoration: underline;">DEFENSE.</span> none of which was addressed in their off season moves. I hope Alpha Diallo translates well and becomes an NBA defensive stalwart. I like DeMar as a steady offensive option off the bench, I’ll let myself be pleasantly surprised by Tyus, Marvin, and Lonnie, and I think Trevon Brazile projects as a dynamic, athletically imposing future option with enough time to develop an NBA game. Ultimately, the Nuggets possess a core on the tail end of excellence and retooling around Jokić may be necessary if they want to reach the peaks they did in 2023 (especially if they want to beat the TWolves in the playoffs). 
 
 
+<!-- NUGGETS NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-f">F</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+     Peyton Watson 
+    </li>
+    <li>
+      Tim Hardaway Jr.
+    </li>
+    <li>
+      Bruce Brown
+    </li>
+    <li>
+      Jonas Valančiūnas
+    </li>
+  </ul>
+</div>
+
+<!-- NUGGETS NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-b-minus">B-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      DeMar DeRozan
+    </li>
+    <li>
+      Marvin Bagley
+    </li>
+    <li>
+      Tyus Jones
+    </li>
+    <li>
+      DaRon Holmes II should be ramped up more after getting accustomed to NBA last season following achilles tear previously
+    </li>
+  </ul>
+</div>
+
+<!-- NUGGETS ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-a-minus">A-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Kept starting lineup the exact same, some depth retained although it’s not the depth you really wanted (Jones, Nnaji, Strawther). Significantly lost defense and 3 point shooting, replaced depth with a few vets although uninspiring for real success.
+    </li>
+  </ul>
+</div>
+
+<!-- NUGGETS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-a-minus">A-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The Jamal - Jok - AG trifecta is one of the most tried and true systems in the NBA, regularly posing the most lethal offense when healthy.
+    </li>
+    <li>
+      Adelman (CBS Rank 23) is not a generational coach, but job is easier when you have the basketball mind of Jokic. We need true genius to figure out how this roster is going to play any defense, though. 
+    </li>
+  </ul>
+</div>
+
+<!-- NUGGETS INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-b-minus">B-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      AG, CB, Cam, and Jokic all missed notable time due to various injuries last season, one would expect the Nuggets to be a lot more lucky this year. There is a bit of concern if this team can really be healthy all year, though
+    </li>
+  </ul>
+</div>
+
+<!-- NUGGETS EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#7</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">48.5</span>
+  </div>
+</div>
+
+<hr>
+
 
 
 
@@ -543,6 +759,119 @@ Another season, another round of disappointment from the Nuggets front office. W
 
 The Timberwolves took a big swing trading away Julius Randle, Naz Reid, an unprotected first-round pick and 3 second-round picks for all-star Lamelo Ball. Lamelo provides clear value to the Twolves as one of the most talented offensive engines in the league, commandeering playmaking duties from Anthony Edwards as he’s been wishing for so long. Although the Lamelo + Ant combination is perfect on paper, likely the best backcourt in the league, I expect they will show elite flashes of success throughout the year, but only translate that to win dominance later in the season. It takes time to merge two star guards, especially if they’re both as high usage as these two (both >30%, top 17 in the league last year). I like the flier on Kuminga, but I doubt he alone will be enough to bolster the physicality and size that was crucial to their identity last year. 
 
+
+<!-- TWOLVES NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-c-minus">C-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+     Julius Randle
+    </li>
+    <li>
+      Naz Reid
+    </li>
+    <li>
+      Mike Conley
+    </li>
+  </ul>
+</div>
+
+<!-- TWOVLES NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      LaMelo Ball
+    </li>
+    <li>
+      Jonathan Kuminga
+    </li>
+    <li>
+      Ayo Dosunmu was traded to the Timberwolves midway through last season, so he only played 24 games for them. I'd expect a much bigger contribution from him now after how good he looked in the playoffs last year.
+    </li>
+    <li>
+      Cody Williams
+    </li>
+  </ul>
+</div>
+
+<!-- TWOLVES ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-c-minus">C-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      TWolves lost serious size and depth with a few of their recent mainstays, and are pushing a completely new look with all-star Lamelo ball now to be heavily featured, and a gamble on Kuminga who may start for them.
+    </li>
+  </ul>
+</div>
+
+<!-- TWOVLES SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Usual physically imposing, bruising identity is strongly replaced now with offensive flair of LaMelo injected into lineup. 
+    </li>
+    <li>
+      Chris Finch (CBS Rank 6) is an adaptive problem-solver who I trust to figure out the LaMelo thing and maintain some of that gritty physicality from last season despite the physical downsize through roster changes. 
+    </li>
+  </ul>
+</div>
+
+<!-- TWOLVES INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-d-minus">D-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Donte DiVincenzo will likely miss most of the regular season, if not the whole season entirely now with a torn achilles. 
+    </li>
+    <li>
+      Anthony Edwards only played 61 games last season, but the team was mostly very healthy outside of that.
+    </li>
+    <li>
+      LaMelo Ball can never be relied on for healthy seasons and I figure there’s some reason the Hornets traded him after their most healthy season in a long time.
+    </li>
+  </ul>
+</div>
+
+<!-- TWOLVES EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#8</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">48.5</span>
+  </div>
+</div>
+
+<hr>
 
 
 
@@ -674,6 +1003,101 @@ Most NBA 2026-27 standings predictions seemingly take a swing on the Mavericks, 
 Last season was somewhat of a breakout year for the Suns, finishing in 8th with Devin Booker only playing 64 games, Dillon Brooks and Grayson Allen playing 56 and 51 respectively, and Jalen Green playing only 32 games. The Suns can reasonably expect another solid campaign with a nice mix of steady veterans and high-upside young players, but they’re no longer the surprise team in the West anymore. I think contention to avoid the play-in is too tough and the Suns will end up in a similar spot to last year.
 
 
+<!-- SUNS NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-b-plus">B+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Grayson Allen
+    </li>
+    <li>
+      Royce O’Neal
+    </li>
+  </ul>
+</div>
+
+<!-- SUNS NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-a-minus">A−</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Miles Bridges
+    </li>
+    <li>
+      Luke Kennard
+    </li>
+  </ul>
+</div>
+
+<!-- SUNS ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-a-plus">A-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The Suns retained the majority of their key rotational pieces. Although they did swap out a wing & shooter, the replacements should blend fairly seamlessly in. The key is to get health from Mark Williams, Booker, and Jalen Green and they could maintain a steady squad. 
+    </li>
+  </ul>
+</div>
+
+<!-- SUNS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-b">B</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Jordan Ott (CBS Rank 19) looks to build on a solid first season at the helm. Offense is jumpshot heavy, likely due to personnel, but did not reach top half efficiency last season, so they’ll hope to build a more dynamic approach this season for success. 
+    </li>
+  </ul>
+</div>
+
+<!-- SUNS INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-c">C</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The Suns were somewhat unlucky last season with multiple injuries to starters. That being said, Mark Williams’s health is unfortunately not a great bet in the NBA, and Booker has had to carry such a heavy offensive burden, so I am not optimistic about the Suns’ health going into this year. 
+    </li>
+  </ul>
+</div>
+
+<!-- SUNS EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#19</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">39.5</span>
+  </div>
+</div>
+
+<hr>
+
 
 
 
@@ -683,6 +1107,117 @@ Last season was somewhat of a breakout year for the Suns, finishing in 8th with 
 ### <img src="{{ '/assets/img/NBA_Standings/blazers.png' | relative_url }}" width="35" alt="Trail Blazers Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>9. Portland Trail Blazers [Last Season: 7 seed, 42-40]</strong>
 
 The Trailblazers were a surprise team last season to some (personally, I was more optimistic than most) owing to the breakout of Deni Avdija and defensive consistency from Toumani Camara and Donovan Clingan. Clearly, there will be a huge shakeup with the addition of two time all-star Ja Morant and similarly high-usage Damian Lillard. Starting both of those offensive-minded, small guards puts heavy pressure on that defense which was 14th in DRTG last season. With the reintroduction of their franchise legend alongside a host of young players to develop, there’s a lot for first time head coach Micah Nori to figure out rotation-wise. Although, I see talent and creativity giving this roster another surprising, competitive edge to unsuspecting teams. 
+
+
+<!-- BLAZERS NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-c">C</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Jerami Grant
+    </li>
+    <li>
+      Kris Murray
+    </li>
+    <li>
+      Matisse Thybulle
+    </li>
+    <li>
+      Shaedon Sharpe tore his right lateral meniscus during an off-season workout, keeping him out until at least late February at best. He’s a young guard/wing they’d love to see leaps from (no pun intended), but with their current guard depth in excess, it may not be worth rushing him back. 
+    </li>
+  </ul>
+</div>
+
+<!-- BLAZERS NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-b-plus">B+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Damian Lillard
+    </li>
+    <li>
+      Ja Morant
+    </li>
+    <li>
+      Micah Potter
+    </li>
+  </ul>
+</div>
+
+<!-- BLAZERS ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-c-plus">C-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Adding two undersized former all-star guards potentially to the starting lineup gives this roster a completely new look, and a headscratching conundrum of how to make it work on court.
+    </li>
+    <li>
+      Much of the core from last year remains, and the trailblazers should hope for the same success from Avdija and Clingan to continue their playoff hopes, although the 3 guard lineups are confusing and doubtful in my mind to find much success.
+    </li>
+  </ul>
+</div>
+
+<!-- BLAZERS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-b-minus">B-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Micah Nori (CBS Rank 27) is, in my mind, a very underrated coach for a first time head coach. Of course, he had some success as the stand in for Chris Finch during the 2024 playoffs, but I think he has shown some talent for on-court strategic decision making. He has a huge task to figure out this seemingly disjointed lineup with overlapping strengths at the guard position, as well as some personality management with Deni just having the best season of his career, Lillard coming back as a 36-year-old franchise goat, and Ja Morant having a history of off-court debacles.
+    </li>
+  </ul>
+</div>
+
+<!-- BLAZERS INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-d">D</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The trailblazers had fantastic injury luck last year regarding their two most important defensive players, Toumani Camara and Donovan Clingan. Outside of that, a lot of their guards experienced injury misfortune and some of their key starters missed time, so they’re hoping for more luck here. 
+    </li>
+    <li>
+      Damian Lillard, Ja Morant, and Rob Williams have famously suffered from injuries keeping them sidelined in recent years, so there’s high risk here the trailblazers may yet again experience some misfortune. The blazers are a fairly deep team, so there is a chance some rotational players can step up and fill in when needed, but I’m not too optimistic for a fully healthy season. 
+    </li>
+  </ul>
+</div>
+
+<!-- BLAZERS EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#16</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">40.5</span>
+  </div>
+</div>
+
+<hr>
 
 
 
@@ -696,6 +1231,110 @@ The Trailblazers were a surprise team last season to some (personally, I was mor
 The Pelicans are routinely one of the hardest franchises to be optimistic about. That being said, I am willing to stick my neck out a bit for them this year with the expectation that Dejounte Murray, who should raise their floor, is healthy this season. Of course, you cannot bet on the Pelicans avoiding injury as they have been arguably the most cursed team in recent history. Yes, Zion might not play 62 games this year like he did last season, and yes his fit with burgeoning Derik Queen does seem clunky, but there’s still an overwhelming amount of young talent in this locker room. To me, Jamahl Mosley will play the role of a potter and if he’s able to shape the team into connected cohesion, I believe the Pelicans are a team who finally deserve some good luck.
 
 
+<!-- PELICANS NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Micah Peavy
+    </li>
+    <li>
+      Jordan Hawkins
+    </li>
+    <li>
+      Kevon Looney
+    </li>
+  </ul>
+</div>
+
+<!-- PELICANS NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-a-minus">A-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Bennedict Mathurin
+    </li>
+    <li>
+      AJ Johnson
+    </li>
+    <li>
+      Trendon Watford
+    </li>
+    <li>
+      Dejounte Murray only played 14 games for them last season after a ruptured right achilles halfway through the 2024-25 season. 
+    <\li>
+  </ul>
+</div>
+
+<!-- PELICANS ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The one thing about the Pelicans is that they have continuously doubled, and tripled down on the same core even without it experiencing success. Chalk it up to heavy injury frequency giving the shot callers optimism that there’s some promise in this lineup, they simply do not want to move on from their assets no matter what. That this has been the trend for multiple seasons gives the roster fantastic continuity even despite poor injury luck. 
+    </li>
+  </ul>
+</div>
+
+<!-- PELICANS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-d-plus">D+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Jamahl Mosley (CBS Rank 25) brings a strong defensive-minded minded approach to this team. Both sides of the court were an issue last season, but I think Dejounte will help a lot with the team cohesion. I don’t find Zion & Queen to be a natural pairing on court together, giving even more potential for a shakeup mid-season. 
+    </li>
+  </ul>
+</div>
+
+<!-- PELICANS INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-c-minus">C-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Every NBA fan is hoping for a healthy Pelicans season, just so we finally know what it can really look like. Unfortunately, betting on Zion’s health has been historically unfavorable, and it feels unlikely to expect the 66 games we got from him last season. 
+    </li>
+  </ul>
+</div>
+
+<!-- PELICANS EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#27</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">28.5</span>
+  </div>
+</div>
+
+<hr>
+
 
 
 
@@ -706,6 +1345,113 @@ The Pelicans are routinely one of the hardest franchises to be optimistic about.
 ### <img src="{{ '/assets/img/NBA_Standings/jazz.png' | relative_url }}" width="35" alt="Jazz Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>11. Utah Jazz [Last Season: 15 Seed, 22-60]</strong>
 
 Many feel highly optimistic about this Jazz roster who threw in the towel early last season, obscuring their real potential. They made fantastic acquisitions in the form of former defensive player of the year and two-time all-star Jaren Jackson Jr., drafting Darryn Peterson who projects as a generational talent, and recouping some NBA experience through trades. Will Hardy is one of the best coaches in the league, and I’m a massive Keyonte George fan, although I have serious doubts about this defense. They may catch lightning in a bottle on certain nights, but I don’t believe they will have the consistency necessary for regular season wins. 
+
+
+<!-- JAZZ NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-b">B</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Walker Kessler
+    </li>
+    <li>
+      Cody Williams
+    </li>
+  </ul>
+</div>
+
+<!-- JAZZ NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Jaren Jackson Jr. (only played 3 games for them last season)
+    </li>
+    <li>
+      Josh Okogie
+    </li>
+    <li>
+      Josh Green
+    </li>
+    <li>
+      Jusuf Nurkić
+    <\li>
+    <li>
+      Darryn Peterson
+    <\li>
+  </ul>
+</div>
+
+<!-- JAZZ ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Jazz lose some seeming mainstays in favor of giving the team a new spice. I like the moves they’ve made, meanwhile they will continue to give heavy minutes to the main guys they have had for awhile now: Keyonte, Lauri, likely Bailey.
+    </li>
+  </ul>
+</div>
+
+<!-- PELICANS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-a-minus">A-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Will Hardy (CBS Rank 10) is a fantastic coach, geared well for the developmental side of this team as well as bringing in more wins than they should get with this roster. I like the direction he’s steering them over multiple seasons. 
+    </li>
+  </ul>
+</div>
+
+<!-- JAZZ INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-d">D</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Nurkić is out for a month to start the season with a foot injury. Filipowski had back issues last year which caused him to miss games. These are compelling reasons to think the Jazz may have some depth concerns at the big man position. 
+    </li>
+  </ul>
+</div>
+
+<!-- JAZZ EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#21</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">36.5</span>
+  </div>
+</div>
+
+<hr>
+
+
 
 
 
@@ -720,6 +1466,110 @@ Many feel highly optimistic about this Jazz roster who threw in the towel early 
 A lot of optimism surrounds this young Grizzlies team which has drafted extremely well over the last few years. They’ve struck gold on underrated talents out of nowhere, and I think their off-season additions are quietly among the best in the league. Cameron Boozer may well come in looking like a vet, and sweep up the rookie of the year award as he should form a formidable duo with Zach Edey in the frontcourt. Feisty guard play and physically imposing backcourt depth is a winning formula at the very top of the Western Conference, although this team needs a generational star to get there. Even if it’s too early for this talent to equate to wins just yet, fans should be excited about their leap into a new, promising direction. 
 
 
+<!-- GRIZZ NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-b-plus">B+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Ja Morant
+    </li>
+    <li>
+      Santi Aldama
+    </li>
+  </ul>
+</div>
+
+<!-- GRIZZ NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Jerami Grant
+    </li>
+    <li>
+      Isaiah Stewart
+    </li>
+    <li>
+      Quinten Post
+    </li>
+    <li>
+      Cameron Boozer
+    <\li>
+  </ul>
+</div>
+
+<!-- GRIZZ ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-b">B</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The Grizzlies moved on from the Grit-and-Grind-Verse-2 era, now opening room for young player development. Although there is overturn giving a new look to their depth, they positively retained their young core. 
+    </li>
+  </ul>
+</div>
+
+<!-- GRIZZ SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-b-plus">B+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Tuomas Iisalo (CBS Rank 24) may be someone to introduce a completely new playstyle to the NBA. I like the concept here of young stars with high potential and a physically imposing frontcourt. If everyone can stay healthy, we could see a mini-Spurs in this team. 
+    </li>
+  </ul>
+</div>
+
+<!-- GRIZZ INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-b-minus">B-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The Grizzlies were one of the most incredibly unlucky teams last year with injuries, having to find and rely on a host of fringe-NBA players. One should expect their luck to take an upturn this season. 
+    </li>
+    <li>
+      Zach Edey unfortunately does not currently project as a reliably healthy player.
+    </li>
+  </ul>
+</div>
+
+<!-- GRIZZLIES EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#24</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">29.5</span>
+  </div>
+</div>
+
+<hr>
+
 
 <br>
 
@@ -731,6 +1581,107 @@ A lot of optimism surrounds this young Grizzlies team which has drafted extremel
 
 This roster was extremely mid last year, and I’m honestly surprised they got as far as they did with Steph only playing 43 games. Doubling down on this old roster by drafting a 24 year-old win-now rookie when they only clinched the 10 seed last season is quite the decision, one that I don’t think will pay off for them long term. They’ve clearly embraced the Walt Disney adage “growing old is mandatory, but growing up is optional!” The dubs are desperately hoping for more health this season, although they’re not likely to experience it with Curry barely recovering from a right ankle sprain in a pre-season practice, Porzingis currently listed as out indefinitely, and Jimmy Butler likely to be out until February 2027. If Yaxel is a revelation and Steph Curry can play respectable time on the court, this team may not be one of the worst in the league… hopefully.
 
+
+<!-- WARRIORS NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-c-minus">C-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Quinten Post
+    </li>
+    <li>
+      Trace Jackson-Davis
+    </li>
+    <li>
+      Buddy Hield
+    </li>
+  </ul>
+</div>
+
+<!-- WARRIORS NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-d">D</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Georges Niang
+    </li>
+    <li>
+      Brandon Williams
+    </li>
+    <li>
+      Yaxel Lendeborg
+    </li>
+  </ul>
+</div>
+
+<!-- WARRIORS ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-a-plus">A+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Unfortunately, the Warriors decided to reinvest in the same team from last year, yet again relying on Curry to carry them with no additional help. Even if the roster knows itself well, what’s the point? This grade being their best by a great margin means even when the Warriors win, they lose.  
+    </li>
+  </ul>
+</div>
+
+<!-- WARRIORS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-c-plus">C+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Steve Kerr (CBS Rank 12) is certainly very experienced with the core of Steph and Draymond, but this is not terribly meaningful in 2026. The Warriors know their strengths, but they should have realized that their weaknesses, including age, means they have to reinvent the system for future success. 
+    </li>
+  </ul>
+</div>
+
+<!-- WARRIORS INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-f">F</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      The Unction is a year older. Porzingis is out indefinitely, Jimmy is out until February, Steph only played 43 games last season and is just now recovered from an ankle sprain, what else… 
+    </li>
+  </ul>
+</div>
+
+<!-- WARRIORS EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#20</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">36.5</span>
+  </div>
+</div>
+
+<hr>
 
 
 
