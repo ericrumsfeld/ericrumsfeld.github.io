@@ -109,15 +109,18 @@ category: work
 
 
 
-On the eve of what is slated to be the NBA's most exciting regular season to date, how do I forecast the teams to finish when all is said and done?<br>
-For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams.<br>
-Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA by storm as the Spurs did last season?<br>
-Find out now in my NBA 2026-27 Regular Season standings predictions, with nuanced modeling for off-season moves, roster continuity, team identity, and injury luck.
+On the eve of what is slated to be the NBA's most exciting regular season to date, how do I forecast the teams to finish when all is said and done? For the first time in a long time, the Eastern Conference projects to be stronger than the West, with LeBron James and Kawhi Leonard heading east, and Giannis Antetokounmpo and Jaylen Brown joining forces with budding superteams. Will the Knicks experience a championship hangover? Should we doubt the Nuggets as a playoff lock? Which team(s) will surprise us all and take the NBA by storm as the Spurs did last season? Find out now in my NBA 2026-27 Regular Season standings predictions, with nuanced modeling for off-season moves, roster continuity, team identity, and injury luck.
+
+I also want to make it abundantly clear that correctly predicting NBA regular season standings with high accuracy is a very difficult undertaking. Only three games separated the 5 from 10 seed in the East last year. That’s what makes the NBA so much fun to follow. I believe one could reasonably place the Eastern Conference Seeds 1 through 8 in any given order. The Western Conference 3-6 Seeds and 7-13 Seeds could also be in any order without a complaint on my end. To highlight the tiers better, and to allow an excuse for myself when my predictions are inevitably imperfect, I have listed teams in 4 tiers in each conference.
 
 <hr>
 <hr>
 
 # Western Conference
+<br>
+
+### Western Tier 1: Championship Favorites
+
 <br>
 <!-- 1. Spurs -->
 ### <img src="{{ '/assets/img/NBA_Standings/spurs.png' | relative_url }}" width="35" alt="Spurs Logo" style="vertical-align: middle; margin-right: 8px;"> <strong>1. San Antonio Spurs [Last Season: 2 seed, 62-20]</strong>
@@ -147,6 +150,10 @@ Of course, the Spurs’ success rides on the shoulders of their 7’4 giant, Vic
     <li>
       Tobias Harris provides a super reliable veteran presence on
       both ends of the court. Quaintance and Reed Jr. add significant
+      depth at the four/big-man position.
+    </li>
+    <li>
+      Quaintance and Reed Jr. add significant
       depth at the four/big-man position.
     </li>
   </ul>
@@ -360,7 +367,11 @@ Trust me, I do feel guilty putting one of the youngest teams, who were on pace t
 </div>
 
 <hr>
+<br>
 
+
+
+### Western Tier 2: Dogfight of Respectably Good Teams
 
 <br>
 <!-- 3. Lakers -->
@@ -369,6 +380,134 @@ Trust me, I do feel guilty putting one of the youngest teams, who were on pace t
 Welcome to the Luka show. The Lakers have transitioned off of the LeBron James era and rapidly constructed a Luka-centric roster. Walker Kessler is a drastic improvement on what the Lakers were rolling out last season as he should provide fantastic rim protection on defense and all-time scoring efficiency offensively. Although this looks like a completely new roster, they are bringing in a ton of defensive-minded, win-now, experienced NBA players which raises their floor. The offense is not the side to worry about. Building an effective defense around Luka and Austin Reaves is quite the challenge, but JJ Redick seems to be up to the task as he hopes to instill consistent defensive intensity and discipline. 
 
 
+
+<!-- LAKERS NOTABLE DEPARTURES -->
+<h4 class="prediction-section">
+  Notable Departures
+  <span class="prediction-grade grade-c">C</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+     LeBron James (you might’ve heard of him before)
+    </li>
+    <li>
+      Deandre Ayton
+    </li>
+    <li>
+      Rui Hachimura
+    </li>
+    <li>
+      Marcus Smart
+    </li>
+    <li>
+      Luke Kennard
+    </li>
+  </ul>
+</div>
+
+<!-- LAKERS NOTABLE ADDITIONS -->
+<h4 class="prediction-section">
+  Notable Additions
+  <span class="prediction-grade grade-a">A</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Walker Kessler
+    </li>
+    <li>
+      Sandro Mamukelashvili
+    </li>
+    <li>
+      Collin Sexton
+    </li>
+    <li>
+      Quentin Grimes
+    </li>
+    <li>
+      Matisse Thybulle
+    </li>
+    <li>
+      Kevon Looney
+    </li>
+    <li>
+      Jaden Hardy
+    </li>
+    <li>
+      Cameron Carr
+    </li>
+  </ul>
+</div>
+
+<!-- THUNDER ROSTER CONTINUITY -->
+<h4 class="prediction-section">
+  Roster Continuity
+  <span class="prediction-grade grade-D-plus">D+</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Kept only a few core guys (Luka, Reaves, LaRavia, Vanderbilt), but mostly it’s going to be a lot of new faces that have to try to adopt a defensive identity on the fly. Offense should be good with Luka and Reaves as stars, but defense is largely unproven and there are huge question marks for exactly how this team will look.
+    </li>
+  </ul>
+</div>
+
+<!-- LAKERS SYSTEM -->
+<h4 class="prediction-section">
+  System & Coaching
+  <span class="prediction-grade grade-b-minus">B-</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      JJ Redick (CBS Rank 8) seems like quite a solid coach, we’ll really see this season, though as he says he now has a roster he can actually do something with. LeBron-sized vacuum means this will be a Luka & Reaves team (strong offense, no defense) but the ecosystem around them is totally up to JJ’s design so hard to forecast.
+    </li>
+  </ul>
+</div>
+
+<!-- LAKERS INJURY PROJECTION -->
+<h4 class="prediction-section">
+  Injury Projection
+  <span class="prediction-grade grade-b">B</span>
+</h4>
+
+<div class="prediction-details">
+  <ul>
+    <li>
+      Kessler only played 5 games last season after being shut down with shoulder injury, I think we can reasonably expect 60 out of him but I would not bet on 75+.
+    </li>
+    <li>
+      Luka and Reaves both average ~65 GP per year, should likely expect something around there again. 
+    </li>
+    <li>
+      Team has some slight star injury concerns, but depth seems solid enough to continue on.
+    </li>
+  </ul>
+</div>
+
+<!-- LAKERS EXTERNAL PROJECTIONS -->
+<h4 class="prediction-section">
+  External Projections
+</h4>
+
+<div class="external-projections">
+  <div class="projection-stat">
+    <span class="projection-label">ESPN BPI Rank</span>
+    <span class="projection-value">#13</span>
+  </div>
+
+  <div class="projection-stat">
+    <span class="projection-label">DraftKings Win Total Line</span>
+    <span class="projection-value">45.5</span>
+  </div>
+</div>
+
+<hr>
 
 
 
@@ -410,7 +549,9 @@ The Timberwolves took a big swing trading away Julius Randle, Naz Reid, an unpro
 
 
 
+<br>
 
+### Western Tier 3: Play-in or 3 Lottery Balls
 
 <br>
 <!-- 7. Mavs -->
@@ -580,9 +721,9 @@ A lot of optimism surrounds this young Grizzlies team which has drafted extremel
 
 
 
+<br>
 
-
-
+### Western Tier 4: Finding a Silver Lining
 
 <br>
 <!-- 13. Warriors -->
@@ -624,6 +765,9 @@ Worse than a bottom 25 team offensively and defensively last season, the Kings a
 
 
 # Eastern Conference
+<br>
+
+### Eastern Tier 1: Top-Seed Favorites
 
 <br>
 <!-- 1. Celtics -->
@@ -643,9 +787,9 @@ It’s well established that Joe Mazzulla and his Celtics roster are regular sea
 Coming off of a dominant playoffs en route to their first NBA Championship in 53 years, many consider the Knicks as a shoe-in for the 1 seed. I am conserving some gusto on this front, noting that Mitchell Robinson played a huge role for their success, and projecting a bit of a “championship hangover” for a roster that has relied heavily on high starter minutes over the last few years. Not much has changed in the lineup, so we can expect the Knicks to continue to put themselves in tough situations game-to-game, regularly requiring large comebacks and the ability to elevate in the clutch. They’ll still be great. They’re still a team to fear in the postseason.
 
 
+<br>
 
-
-
+### Eastern Tier 2: Dogfight of Great Teams
 
 <br>
 <!-- 3. Cavs -->
@@ -719,9 +863,9 @@ Giannis Antetokounmpo, referred to as the “Greek Freak” is an unstoppable fo
 
 
 
+<br>
 
-
-
+### Eastern Tier 3: Play-in or 3 Lottery Balls
 
 <br>
 <!-- 9. Hawks -->
@@ -782,7 +926,9 @@ The franchise that has truly experienced it all. Untouchable in the 90’s, unlu
 
 
 
+<br>
 
+### Eastern Tier 4: Finding a Silver Lining
 
 <br>
 <!-- 14. Nets -->
