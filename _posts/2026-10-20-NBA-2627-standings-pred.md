@@ -1382,10 +1382,10 @@ Many feel highly optimistic about this Jazz roster who threw in the towel early 
     </li>
     <li>
       Jusuf Nurkić
-    <\li>
+    </li>
     <li>
       Darryn Peterson
-    <\li>
+    </li>
   </ul>
 </div>
 
@@ -1498,7 +1498,7 @@ A lot of optimism surrounds this young Grizzlies team which has drafted extremel
     </li>
     <li>
       Cameron Boozer
-    <\li>
+    </li>
   </ul>
 </div>
 
