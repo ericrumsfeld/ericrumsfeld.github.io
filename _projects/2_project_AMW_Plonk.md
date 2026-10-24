@@ -3,7 +3,7 @@ layout: page
 title: Optimizing Geoguessr Plonks
 description: Ever wondered where exactly the highest EV Plonks are?
 img: assets/img/Poland_Plonk.png
-importance: 2
+importance: 3
 category: Upcoming
 ---
 
