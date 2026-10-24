@@ -3,7 +3,7 @@ layout: page
 title: NBA 2027 Draft Big Board
 description: Version I
 img: assets/img/NBA_2027_bigboard_v1.png
-importance: 3
+importance: 1
 category: Upcoming
 ---
 
