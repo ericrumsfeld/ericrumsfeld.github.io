@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/about-me/";
           },
-        },{id: "post-nba-2027-draft-big-board",
+        },{id: "post-",
         
-          title: "NBA 2027 Draft Big Board",
+          title: "",
         
-        description: "Top 30 Rankings V.1",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/NBA-27-BB1/";
+            window.location.href = "/blog/2026/2026-10-31-NBA-27-BB1/";
           
         },
       },{id: "post-nba-2026-27-standings-predictions",
