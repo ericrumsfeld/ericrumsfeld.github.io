@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/about-me/";
           },
-        },{id: "post-nba-2026-27-standings-predictions",
+        },{id: "post-nba-2027-draft-big-board",
+        
+          title: "NBA 2027 Draft Big Board",
+        
+        description: "Top 30 Rankings V.1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/NBA-27-BB1/";
+          
+        },
+      },{id: "post-nba-2026-27-standings-predictions",
         
           title: "NBA 2026-27 Standings Predictions",
         
