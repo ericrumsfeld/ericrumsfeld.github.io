@@ -141,6 +141,72 @@ const seasonEvents = {
   }
 };
 
+
+const selectedEvents = seasonEvents[season];
+
+const eventShapes = selectedEvents ? [
+  // March Madness boundaries
+  {
+    type: 'line',
+    xref: 'x',
+    yref: 'paper',
+    x0: selectedEvents.marchStart,
+    x1: selectedEvents.marchStart,
+    y0: 0,
+    y1: 1,
+    line: {
+      color: '#fb5607',
+      width: 2,
+      dash: 'dash'
+    }
+  },
+  {
+    type: 'line',
+    xref: 'x',
+    yref: 'paper',
+    x0: selectedEvents.marchEnd,
+    x1: selectedEvents.marchEnd,
+    y0: 0,
+    y1: 1,
+    line: {
+      color: '#fb5607',
+      width: 2,
+      dash: 'dash'
+    }
+  },
+
+  // NBA Combine boundaries
+  {
+    type: 'line',
+    xref: 'x',
+    yref: 'paper',
+    x0: selectedEvents.combineStart,
+    x1: selectedEvents.combineStart,
+    y0: 0,
+    y1: 1,
+    line: {
+      color: '#006644',
+      width: 2,
+      dash: 'dash'
+    }
+  },
+  {
+    type: 'line',
+    xref: 'x',
+    yref: 'paper',
+    x0: selectedEvents.combineEnd,
+    x1: selectedEvents.combineEnd,
+    y0: 0,
+    y1: 1,
+    line: {
+      color: '#006644',
+      width: 2,
+      dash: 'dash'
+    }
+  }
+] : [];
+
+
     
 const layout = {
   // Dynamic plot title
